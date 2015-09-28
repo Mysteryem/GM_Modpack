@@ -1,0 +1,9 @@
+Total amount of conflicted biome ids: 6
+IDs in conflict:
+
+9 is asked by: Sky (net.minecraft.world.biome.BiomeGenEnd), Sky (chylex.hee.world.biome.BiomeGenHardcoreEnd)
+56 is asked by: Dense Forest (biomesoplenty.common.biome.overworld.BiomeGenDenseForest), Twilight Highlands (twilightforest.biomes.TFBiomeHighlands)
+57 is asked by: Eucalyptus Forest (biomesoplenty.common.biome.overworld.BiomeGenEucalyptusForest), Highlands Center (twilightforest.biomes.TFBiomeFinalPlateau)
+69 is asked by: Land of Lakes (biomesoplenty.common.biome.overworld.BiomeGenLandOfLakes), Pocket Plane (com.kentington.thaumichorizons.common.lib.BiomeGenPocket)
+99 is asked by: Xeric Shrubland (biomesoplenty.common.biome.overworld.BiomeGenXericShrubland), Alps Forest (biomesoplenty.common.biome.overworld.sub.BiomeGenAlpsForest)
+109 is asked by: Land of Lakes Marsh (biomesoplenty.common.biome.overworld.sub.BiomeGenLandOfLakesMarsh), Corrupted Sands (biomesoplenty.common.biome.nether.BiomeGenCorruptedSands)
