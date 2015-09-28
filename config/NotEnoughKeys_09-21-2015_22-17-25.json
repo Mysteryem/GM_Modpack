@@ -1,0 +1,467 @@
+{
+   "key.attack": {
+      "keyCode": -100
+   },
+   "key.use": {
+      "keyCode": -99
+   },
+   "key.forward": {
+      "keyCode": 17
+   },
+   "key.left": {
+      "keyCode": 30
+   },
+   "key.back": {
+      "keyCode": 31
+   },
+   "key.right": {
+      "keyCode": 32
+   },
+   "key.jump": {
+      "keyCode": 57
+   },
+   "key.sneak": {
+      "keyCode": 42
+   },
+   "key.drop": {
+      "keyCode": 16
+   },
+   "key.inventory": {
+      "keyCode": 18
+   },
+   "key.chat": {
+      "keyCode": 20
+   },
+   "key.playerlist": {
+      "keyCode": 15
+   },
+   "key.pickItem": {
+      "keyCode": -98
+   },
+   "key.command": {
+      "keyCode": 53
+   },
+   "key.screenshot": {
+      "keyCode": 60
+   },
+   "key.togglePerspective": {
+      "keyCode": 63
+   },
+   "key.smoothCamera": {
+      "keyCode": 0
+   },
+   "key.sprint": {
+      "keyCode": 29
+   },
+   "key.streamStartStop": {
+      "keyCode": 0
+   },
+   "key.streamPauseUnpause": {
+      "keyCode": 0
+   },
+   "key.streamCommercial": {
+      "keyCode": 0
+   },
+   "key.streamToggleMic": {
+      "keyCode": 0
+   },
+   "key.fullscreen": {
+      "keyCode": 87
+   },
+   "key.hotbar.1": {
+      "keyCode": 2
+   },
+   "key.hotbar.2": {
+      "keyCode": 3
+   },
+   "key.hotbar.3": {
+      "keyCode": 4
+   },
+   "key.hotbar.4": {
+      "keyCode": 5
+   },
+   "key.hotbar.5": {
+      "keyCode": 6
+   },
+   "key.hotbar.6": {
+      "keyCode": 7
+   },
+   "key.hotbar.7": {
+      "keyCode": 8
+   },
+   "key.hotbar.8": {
+      "keyCode": 9
+   },
+   "key.hotbar.9": {
+      "keyCode": 10
+   },
+   "ALT Key": {
+      "keyCode": 56
+   },
+   "Boost Key": {
+      "keyCode": 29
+   },
+   "Mode Switch Key": {
+      "keyCode": 50
+   },
+   "Side Inventory Key": {
+      "keyCode": 46
+   },
+   "Hub Expand Key": {
+      "keyCode": 45
+   },
+   "PcktCrft Open (FZ)": {
+      "keyCode": 46
+   },
+   "Sprint (FZ)": {
+      "keyCode": 29
+   },
+   "key.archimedes.up": {
+      "keyCode": 45
+   },
+   "key.archimedes.down": {
+      "keyCode": 44
+   },
+   "key.archimedes.brake": {
+      "keyCode": 46
+   },
+   "key.archimedes.align": {
+      "keyCode": 13
+   },
+   "key.archimedes.decompile": {
+      "keyCode": 43
+   },
+   "key.archimedes.shipinv": {
+      "keyCode": 37
+   },
+   "key.pong": {
+      "keyCode": 0
+   },
+   "key.clockworkphase.multitool": {
+      "keyCode": 47
+   },
+   "key.clockworkphase.temporalAbility": {
+      "keyCode": 19
+   },
+   "Cosmetic Inventory": {
+      "keyCode": 46
+   },
+   "key.openCompendium": {
+      "keyCode": 25
+   },
+   "Gravi Fly Key": {
+      "keyCode": 33
+   },
+   "Gravi Display Hud": {
+      "keyCode": 35
+   },
+   "igwmod.keys.wiki": {
+      "keyCode": 23
+   },
+   "simplyjetpacks.keybind.toggle.primary": {
+      "keyCode": 33
+   },
+   "simplyjetpacks.keybind.toggle.secondary": {
+      "keyCode": 0
+   },
+   "simplyjetpacks.keybind.mode.primary": {
+      "keyCode": 46
+   },
+   "simplyjetpacks.keybind.mode.secondary": {
+      "keyCode": 0
+   },
+   "simplyjetpacks.keybind.openPackGUI": {
+      "keyCode": 22
+   },
+   "Baubles Inventory": {
+      "keyCode": 0
+   },
+   "[
+      GC
+   ] Galaxy Map": {
+      "keyCode": 50
+   },
+   "[
+      GC
+   ] Open Spaceship Inventory": {
+      "keyCode": 33
+   },
+   "[
+      GC
+   ] Toggle Sensor Goggles Mode": {
+      "keyCode": 37
+   },
+   "Mekanism Item Mode Switch": {
+      "keyCode": 50
+   },
+   "Mekanism Armor Mode Switch": {
+      "keyCode": 33
+   },
+   "Mekanism Voice": {
+      "keyCode": 22
+   },
+   "Change Wand Focus": {
+      "keyCode": 33
+   },
+   "Activate Hover Harness": {
+      "keyCode": 35
+   },
+   "Misc Wand Toggle": {
+      "keyCode": 34
+   },
+   "waila.keybind.wailaconfig": {
+      "keyCode": 82
+   },
+   "waila.keybind.wailadisplay": {
+      "keyCode": 79
+   },
+   "waila.keybind.liquid": {
+      "keyCode": 80
+   },
+   "waila.keybind.recipe": {
+      "keyCode": 81
+   },
+   "waila.keybind.usage": {
+      "keyCode": 75
+   },
+   "ttmisc.toggleArmor": {
+      "keyCode": 22
+   },
+   "key.tarmor": {
+      "keyCode": 0,
+      "shift": false,
+      "control": false,
+      "alt": false
+   },
+   "key.tgoggles": {
+      "keyCode": 0,
+      "shift": false,
+      "control": false,
+      "alt": false
+   },
+   "key.tbelt": {
+      "keyCode": 0,
+      "shift": false,
+      "control": false,
+      "alt": false
+   },
+   "key.tzoom": {
+      "keyCode": 0,
+      "shift": false,
+      "control": false,
+      "alt": false
+   },
+   "key.armor": {
+      "keyCode": 25
+   },
+   "aura.angelJump": {
+      "keyCode": 200
+   },
+   "aura.angelJumpDown": {
+      "keyCode": 208
+   },
+   "Automagy.key.focusCrafting": {
+      "keyCode": 46
+   },
+   "key.placeItem": {
+      "keyCode": 25
+   },
+   "key.toolConfig": {
+      "keyCode": 46
+   },
+   "Glider Toggle": {
+      "keyCode": 34
+   },
+   "Sound Locator": {
+      "keyCode": 38
+   },
+   "Night Vision": {
+      "keyCode": 25
+   },
+   "Goggles of Revealing": {
+      "keyCode": 19
+   },
+   "Step Assist": {
+      "keyCode": 0
+   },
+   "Speed": {
+      "keyCode": 0
+   },
+   "Jump": {
+      "keyCode": 0
+   },
+   "Yeta Wrench Mode": {
+      "keyCode": 0
+   },
+   "Toggle Electromagnet": {
+      "keyCode": 0
+   },
+   "Open MPS Keybind GUI": {
+      "keyCode": 0
+   },
+   "Go Down (MPS Flight Control)": {
+      "keyCode": 44
+   },
+   "Cycle Tool Backward (MPS)": {
+      "keyCode": 0
+   },
+   "Cycle Tool Forward (MPS)": {
+      "keyCode": 0
+   },
+   "Zoom (MPS)": {
+      "keyCode": 0
+   },
+   "Cosmetic (MPS)": {
+      "keyCode": 0
+   },
+   "Open Wiki": {
+      "keyCode": 45
+   },
+   "Wrench": {
+      "keyCode": 46
+   },
+   "Armor Effects": {
+      "keyCode": 33
+   },
+   "Charge": {
+      "keyCode": 47
+   },
+   "Extra Function": {
+      "keyCode": 46
+   },
+   "Fire Projectile": {
+      "keyCode": 19
+   },
+   "Change Mode": {
+      "keyCode": 34
+   },
+   "invtweaks.key.sort": {
+      "keyCode": 19
+   },
+   "key.materialCosts": {
+      "keyCode": 30,
+      "shift": false,
+      "control": false,
+      "alt": false
+   },
+   "key.clipboardPaste": {
+      "keyCode": 210,
+      "shift": false,
+      "control": false,
+      "alt": false
+   },
+   "Open Matter Scanner GUI": {
+      "keyCode": 71
+   },
+   "Android Ability key": {
+      "keyCode": 45
+   },
+   "Android Switch Ability key": {
+      "keyCode": 15
+   },
+   "key.fart.desc": {
+      "keyCode": 0
+   },
+   "key.aspectMenu": {
+      "keyCode": 67
+   },
+   "Change Arcane Lens": {
+      "keyCode": 47
+   },
+   "Activate Morphic Fingers": {
+      "keyCode": 49
+   },
+   "Toggle Spider Climb": {
+      "keyCode": 46
+   },
+   "Toggle Chameleon Skin": {
+      "keyCode": 45
+   },
+   "Glide": {
+      "keyCode": 34
+   },
+   "Glider Lift": {
+      "keyCode": 33
+   },
+   "Beetle Ram Attack": {
+      "keyCode": 19
+   },
+   "key.craftingGrid": {
+      "keyCode": 46
+   },
+   "TG.keybind.openInv": {
+      "keyCode": 48
+   },
+   "TG.keybind.activeaAbilities": {
+      "keyCode": 0
+   },
+   "key.CastingMode": {
+      "keyCode": 46
+   },
+   "key.SpellBookNext": {
+      "keyCode": 52
+   },
+   "key.SpellBookPrev": {
+      "keyCode": 51
+   },
+   "key.AuraCustomization": {
+      "keyCode": 48
+   },
+   "key.ToggleManaDisplay": {
+      "keyCode": 24
+   },
+   "key.cofh.empower": {
+      "keyCode": 47
+   },
+   "key.cofh.multimode": {
+      "keyCode": 46
+   },
+   "Teleport": {
+      "keyCode": 35
+   },
+   "Shoot fireballs": {
+      "keyCode": 33
+   },
+   "Blow up yourself": {
+      "keyCode": 22
+   },
+   "Shoot explosive fireballs": {
+      "keyCode": 48
+   },
+   "Throw potions": {
+      "keyCode": 25
+   },
+   "key.control": {
+      "keyCode": 29
+   },
+   "railcraft.keybind.loco.faster": {
+      "keyCode": 52
+   },
+   "railcraft.keybind.loco.slower": {
+      "keyCode": 51
+   },
+   "railcraft.keybind.loco.mode": {
+      "keyCode": 50
+   },
+   "railcraft.keybind.loco.whistle": {
+      "keyCode": 49
+   },
+   "key.journeymap.map_toggle": {
+      "keyCode": 36
+   },
+   "key.journeymap.zoom_in": {
+      "keyCode": 13
+   },
+   "key.journeymap.zoom_out": {
+      "keyCode": 12
+   },
+   "key.journeymap.minimap_type": {
+      "keyCode": 0
+   },
+   "key.journeymap.minimap_preset": {
+      "keyCode": 43
+   },
+   "key.journeymap.create_waypoint": {
+      "keyCode": 48
+   }
+}

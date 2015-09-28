@@ -1,0 +1,358 @@
+/*// Quontonium
+val oreQuontonium = <ore:oreQuontonium>;
+oreQuontonium.add(<MorePlanet:diona_block:4>);
+val ingotQuontonium = <ore:ingotQuontonium>;
+ingotQuontonium.add(<MorePlanet:diona_item>);
+val blockQuontonium = <ore:blockQuontonium>;
+blockQuontonium.add(<MorePlanet:diona_block:10>);
+
+// Fronisium
+val oreFronisium = <ore:oreFronisium>;
+oreFronisium.add(<MorePlanet:diona_block:5>);
+val ingotFronisium = <ore:ingotFronisium>;
+ingotFronisium.add(<MorePlanet:diona_item:1>);
+val blockFronisium = <ore:blockFronisium>;
+blockFronisium.add(<MorePlanet:fronisium_block>);
+
+// Tin
+val oreTin = <ore:oreTin>;
+oreTin.add(<MorePlanet:diona_block:6>);
+oreTin.add(<MorePlanet:polongnius_block:5>);
+oreTin.add(<MorePlanet:koentus_block:4>);
+oreTin.add(<MorePlanet:fronos_block:5>);
+oreTin.add(<MorePlanet:kapteyn-b_block:7>);
+oreTin.add(<MorePlanet:mercury_block:4>);
+oreTin.add(<MorePlanet:venus_block:6>);
+oreTin.add(<MorePlanet:phobos_block:4>);
+oreTin.add(<MorePlanet:deimos_block:4>);
+
+// Copper
+val oreCopper = <ore:oreCopper>;
+oreCopper.add(<MorePlanet:diona_block:7>);
+oreCopper.add(<MorePlanet:polongnius_block:4>);
+oreCopper.add(<MorePlanet:koentus_block:5>);
+oreCopper.add(<MorePlanet:fronos_block:6>);
+oreCopper.add(<MorePlanet:kapteyn-b_block:8>);
+oreCopper.add(<MorePlanet:mercury_block:5>);
+oreCopper.add(<MorePlanet:venus_block:7>);
+oreCopper.add(<MorePlanet:phobos_block:5>);
+oreCopper.add(<MorePlanet:deimos_block:5>);
+
+// Silicon
+// Drops Raw Silicon when mined
+val oreSilicon = <ore:oreSilicon>;
+oreSilicon.add(<MorePlanet:diona_block:8>);
+val itemSilicon = <ore:itemSilicon>;
+itemSilicon.add(<GalacticraftCore:item.basicItem:2>);
+
+// Aluminum/Aluminium
+val oreAluminum = <ore:oreAluminum>;
+val oreAluminium = <ore:oreAluminium>;
+oreAluminum.add(<MorePlanet:diona_block:9>);
+oreAluminium.add(<MorePlanet:diona_block:9>);
+oreAluminum.add(<MorePlanet:fronos_block:4>);
+oreAluminium.add(<MorePlanet:fronos_block:4>);
+oreAluminum.add(<MorePlanet:mercury_block:6>);
+oreAluminium.add(<MorePlanet:mercury_block:6>);
+
+// Palladium
+//Drops Raw Palladium when mined
+val orePalladium = <ore:orePalladium>;
+orePalladium.add(<MorePlanet:polongnius_block:7>);
+val itemPalladium = <ore:itemPalladium>;
+itemPalladium.add(<MorePlanet:polongnius_item:3>);
+val ingotPalladium = <ore:ingotPalladium>;
+ingotPalladium.add(<MorePlanet:polongnius_item:5>);
+val blockPalladium = <ore:blockPalladium>;
+blockPalladium.add(<MorePlanet:polongnius_block:12>);
+
+// Flonium
+//Drops Flonium
+val oreFlonium = <ore:oreFlonium>;
+oreFlonium.add(<MorePlanet:polongnius_block:8>);
+val itemFlonium = <ore:itemFlonium>;
+itemFlonium.add(<MorePlanet:polongnius_item>);
+// No block
+
+// Purple Crystal
+//Drops purple crystal
+val orePurpleCrystal = <ore:orePurpleCrystal>;
+orePurpleCrystal.add(<MorePlanet:polongnius_block:9>);
+val itemPurpleCrystal = <ore:itemPurpleCrystal>;
+itemPurpleCrystal.add(<MorePlanet:polongnius_item:1>);
+val gemPurpleCrystal = <ore:gemPurpleCrystal>;
+gemPurpleCrystal.add(<MorePlanet:polongnius_item:1>);
+val blockPurpleCrystal = <ore:blockPurpleCrystal>;
+blockPurpleCrystal.add(<MorePlanet:polongnius_block:11>);
+
+// Ichorius
+//Drops ichorius gem
+val oreIchoriusGem = <ore:oreIchoriusGem>;
+oreIchoriusGem.add(<MorePlanet:nibiru_block:4>);
+val itemIchoriusGem = <ore:itemIchoriusGem>;
+itemIchoriusGem.add(<MorePlanet:power_crystal>);
+val gemIchoriusGem = <ore:gemIchoriusGem>;
+gemIchoriusGem.add(<MorePlanet:power_crystal>);
+val blockIchoriusGem = <ore:blockIchoriusGem>;
+blockIchoriusGem.add(<MorePlanet:nibiru_block:9>);
+
+// Norium
+val oreNorium = <ore:oreNorium>;
+oreNorium.add(<MorePlanet:nibiru_block:5>);
+val ingotNorium = <ore:ingotNorium>;
+ingotNorium.add(<MorePlanet:nibiru_item:1>);
+val blockNorium = <ore:blockNorium>;
+blockNorium.add(<MorePlanet:nibiru_block:10>);
+
+// Diamond
+val oreDiamond = <ore:oreDiamond>;
+oreDiamond.add(<MorePlanet:nibiru_block:6>);
+
+// Coal
+val oreCoal = <ore:oreCoal>;
+oreCoal.add(<MorePlanet:nibiru_block:7>);
+oreCoal.add(<MorePlanet:fronos_block:3>);
+oreCoal.add(<MorePlanet:venus_block:8>);
+
+// Red Gem
+//Drops red gem
+val oreRedGem = <ore:oreRedGem>;
+oreRedGem.add(<MorePlanet:nibiru_block:8>);
+val itemRedGem = <ore:itemRedGem>;
+itemRedGem.add(<MorePlanet:nibiru_item>);
+val gemRedGem = <ore:gemRedGem>;
+gemRedGem.add(<MorePlanet:nibiru_item>);
+val blockRedGem = <ore:blockRedGem>;
+blockRedGem.add(<MorePlanet:nibiru_block:11>);
+
+// White Crystal
+//Drops White crystal
+val oreWhiteCrystal = <ore:oreWhiteCrystal>;
+oreWhiteCrystal.add(<MorePlanet:koentus_block:6>);
+val itemWhiteCrystal = <ore:itemWhiteCrystal>;
+itemWhiteCrystal.add(<MorePlanet:koentus_item>);
+val gemWhiteCrystal = <ore:gemWhiteCrystal>;
+gemWhiteCrystal.add(<MorePlanet:koentus_item>);
+val blockWhiteCrystal = <ore:blockWhiteCrystal>;
+blockWhiteCrystal.add(<MorePlanet:koentus_block:9>);
+
+// EMP Shard
+//Drops EMP Shard
+val oreEMPCrystal = <ore:oreEMPCrystal>;
+oreEMPCrystal.add(<MorePlanet:koentus_block:7>);
+val itemEMPCrystal = <ore:itemEMPCrystal>;
+itemEMPCrystal.add(<MorePlanet:koentus_item:1>);
+val gemEMPCrystal = <ore:gemEMPCrystal>;
+gemEMPCrystal.add(<MorePlanet:koentus_item:1>);
+val blockEMPCrystal = <ore:blockEMPCrystal>;
+blockEMPCrystal.add(<MorePlanet:koentus_block:10>);
+
+// Bacterial Fossil
+//Drops Bacterial Fossil
+val oreBacterialFossil = <ore:oreBacterialFossil>;
+oreBacterialFossil.add(<MorePlanet:koentus_block:8>);
+val itemBacterialFossil = <ore:itemBacterialFossil>;
+itemBacterialFossil.add(<MorePlanet:koentus_item:2>);
+
+// Iron
+val oreIron = <ore:oreIron>;
+oreIron.add(<MorePlanet:polongnius_block:6>);
+oreIron.add(<MorePlanet:fronos_block:2>);
+oreIron.add(<MorePlanet:mercury_block:7>);
+oreIron.add(<MorePlanet:venus_block:9>);
+oreIron.add(<MorePlanet:pluto_block:6>);
+oreIron.add(<MorePlanet:phobos_block:6>);
+oreIron.add(<MorePlanet:deimos_block:6>);
+
+// Lapis
+val oreLapis = <ore:oreLapis>;
+oreLapis.add(<MorePlanet:fronos_block:7>);
+
+// Mineral Crystal
+//Drops mineral crystal
+val oreMineralCrystal = <ore:oreMineralCrystal>;
+oreMineralCrystal.add(<MorePlanet:fronos_block:8>);
+val itemMineralCrystal = <ore:itemMineralCrystal>;
+itemMineralCrystal.add(<MorePlanet:fronos_item>);
+val gemMineralCrystal = <ore:gemMineralCrystal>;
+gemMineralCrystal.add(<MorePlanet:fronos_item>);
+
+// Black Diamond
+//Drops black diamond
+val oreBlackDiamond = <ore:oreBlackDiamond>;
+oreBlackDiamond.add(<MorePlanet:fronos_block:9>);
+val gemBlackDiamond = <ore:gemBlackDiamond>;
+gemBlackDiamond.add(<MorePlanet:fronos_item:2>);
+val itemBlackDiamond = <ore:itemBlackDiamond>;
+itemBlackDiamond.add(<MorePlanet:fronos_item:2>);
+val blockBlackDiamond = <ore:blockBlackDiamond>;
+blockBlackDiamond.add(<MorePlanet:fronos_ore_block:1>);
+
+// Iridium
+val oreIridium = <ore:oreIridium>;
+oreIridium.add(<MorePlanet:fronos_block:10>);
+val ingotIridium = <ore:ingotIridium>;
+ingotIridium.add(<MorePlanet:fronos_item:3>);
+val blockIridium = <ore:blockIridium>;
+blockIridium.add(<MorePlanet:fronos_ore_block>);
+
+// Jellies
+//Each jelly ore drops corresponding jelly
+val oreGrapeJelly = <ore:oreGrapeJelly>;
+oreGrapeJelly.add(<MorePlanet:fronos_ore>);
+val itemGrapeJelly = <ore:itemGrapeJelly>;
+itemGrapeJelly.add(<MorePlanet:jelly>);
+val blockGrapeJelly = <ore:blockGrapeJelly>;
+blockGrapeJelly.add(<MorePlanet:jelly_block>);
+
+val oreRaspberryJelly = <ore:oreRaspberryJelly>;
+oreRaspberryJelly.add(<MorePlanet:fronos_ore:1>);
+val itemRaspberryJelly = <ore:itemRaspberryJelly>;
+itemRaspberryJelly.add(<MorePlanet:jelly:1>);
+val blockRaspberryJelly = <ore:blockRaspberryJelly>;
+blockRaspberryJelly.add(<MorePlanet:jelly_block:1>);
+
+val oreStrawberryJelly = <ore:oreStrawberryJelly>;
+oreStrawberryJelly.add(<MorePlanet:fronos_ore:2>);
+val itemStrawberryJelly = <ore:itemStrawberryJelly>;
+itemStrawberryJelly.add(<MorePlanet:jelly:2>);
+val blockStrawberryJelly = <ore:blockStrawberryJelly>;
+blockStrawberryJelly.add(<MorePlanet:jelly_block:2>);
+
+val oreBerryJelly = <ore:oreBerryJelly>;
+oreBerryJelly.add(<MorePlanet:fronos_ore:3>);
+val itemBerryJelly = <ore:itemBerryJelly>;
+itemBerryJelly.add(<MorePlanet:jelly:3>);
+val blockBerryJelly = <ore:blockBerryJelly>;
+blockBerryJelly.add(<MorePlanet:jelly_block:3>);
+
+val oreLimeJelly = <ore:oreLimeJelly>;
+oreLimeJelly.add(<MorePlanet:fronos_ore:4>);
+val itemLimeJelly = <ore:itemLimeJelly>;
+itemLimeJelly.add(<MorePlanet:jelly:4>);
+val blockLimeJelly = <ore:blockLimeJelly>;
+blockLimeJelly.add(<MorePlanet:jelly_block:4>);
+
+val oreOrangeJelly = <ore:oreOrangeJelly>;
+oreOrangeJelly.add(<MorePlanet:fronos_ore:5>);
+val itemOrangeJelly = <ore:itemOrangeJelly>;
+itemOrangeJelly.add(<MorePlanet:jelly:5>);
+val blockOrangeJelly = <ore:blockOrangeJelly>;
+blockOrangeJelly.add(<MorePlanet:jelly_block:5>);
+
+val oreGreenJelly = <ore:oreGreenJelly>;
+oreGreenJelly.add(<MorePlanet:fronos_ore:6>);
+val itemGreenJelly = <ore:itemGreenJelly>;
+itemGreenJelly.add(<MorePlanet:jelly:6>);
+val blockGreenJelly = <ore:blockGreenJelly>;
+blockGreenJelly.add(<MorePlanet:jelly_block:6>);
+
+val oreLemonJelly = <ore:oreLemonJelly>;
+oreLemonJelly.add(<MorePlanet:fronos_ore:7>);
+val itemLemonJelly = <ore:itemLemonJelly>;
+itemLemonJelly.add(<MorePlanet:jelly:7>);
+val blockLemonJelly = <ore:blockLemonJelly>;
+blockLemonJelly.add(<MorePlanet:jelly_block:7>);
+
+// Namerium Crystal
+//Drops namerium crystal
+val oreNamerianCrystal = <ore:oreNamerianCrystal>;
+oreNamerianCrystal.add(<MorePlanet:kapteyn-b_block:4>);
+val itemNamerianCrystal = <ore:itemNamerianCrystal>;
+itemNamerianCrystal.add(<MorePlanet:namerium_crystal>);
+val blockNamerianCrystal = <ore:blockNamerianCrystal>;
+blockNamerianCrystal.add(<MorePlanet:kapteyn-b_block:11>);
+
+// Frozen Iron
+//Smelts to frozen iron ingot
+val oreFrozenIron = <ore:oreFrozenIron>;
+oreFrozenIron.add(<MorePlanet:kapteyn-b_block:5>);
+oreFrozenIron.add(<MorePlanet:pluto_block:5>);
+val ingotFrozenIron = <ore:ingotFrozenIron>;
+ingotFrozenIron.add(<MorePlanet:kapteyn-b_item>);
+val blockFrozenIron = <ore:blockFrozenIron>;
+blockFrozenIron.add(<MorePlanet:kapteyn-b_block:12>);
+
+// Uranium
+//Drops uranium gem
+val oreUranium = <ore:oreUranium>;
+oreUranium.add(<MorePlanet:kapteyn-b_block:6>);
+val gemUranium = <ore:gemUranium>;
+gemUranium.add(<MorePlanet:kapteyn-b_item:1>);
+val itemUranium = <ore:itemUranium>;
+itemUranium.add(<MorePlanet:kapteyn-b_item:1>);
+val blockUranium = <ore:blockUranium>;
+blockUranium.add(<MorePlanet:kapteyn-b_block:13>);
+
+//Redstone
+val oreRedstone = <ore:oreRedstone>;
+oreRedstone.add(<MorePlanet:kapteyn-b_block:9>);
+oreRedstone.add(<MorePlanet:venus_redstone_ore>);
+
+// Metal Meteoric Iron
+//Drops raw metal meteoric iron
+val oreMetalMeteoricIron = <ore:oreMetalMeteoricIron>;
+oreMetalMeteoricIron.add(<MorePlanet:mercury_block:8>);
+val ingotMetalMeteoricIron = <ore:ingotMetalMeteoricIron>;
+ingotMetalMeteoricIron.add(<MorePlanet:mercury_item:3>);
+val itemMetalMeteoricIron = <ore:itemMetalMeteoricIron>;
+itemMetalMeteoricIron.add(<MorePlanet:mercury_item:1>);
+val blockMetalMeteoricIron = <ore:blockMetalMeteoricIron>;
+blockMetalMeteoricIron.add(<MorePlanet:mercury_block:10>);
+
+// Sulfur
+//Drops sulfur dust
+val oreSulfur = <ore:oreSulfur>;
+oreSulfur.add(<MorePlanet:sirius_block:4>);
+oreSulfur.add(<MorePlanet:venus_block:4>);
+oreSulfur.add(<MorePlanet:io_block:4>);
+val dustSulfur = <ore:dustSulfur>;
+dustSulfur.add(<MorePlanet:sirius-b_item:2>);
+val ingotSulfur = <ore:ingotSulfur>;
+ingotSulfur.add(<MorePlanet:sirius-b_item:3>);
+val blockSulfur = <ore:blockSulfur>;
+blockSulfur.add(<MorePlanet:sirius_block:8>);
+
+// Meteoric Iron
+//Drops raw meteoric iron
+val oreMeteoricIron = <ore:oreMeteoricIron>;
+oreMeteoricIron.add(<MorePlanet:pluto_block:4>);
+val blockMeteoricIron = <ore:blockMeteoricIron>;
+blockMeteoricIron.add(<GalacticraftCore:tile.gcBlockCore:12>);
+val itemMeteoricIron = <ore:itemMeteoricIron>;
+itemMeteoricIron.add(<GalacticraftCore:item.meteoricIronRaw>);
+
+// Lead
+val oreLead = <ore:oreLead>;
+oreLead.add(<MorePlanet:venus_block:5>);
+val ingotLead = <ore:ingotLead>;
+ingotLead.add(<MorePlanet:venus_item>);
+val blockLead = <ore:blockLead>;
+blockLead.add(<MorePlanet:venus_block:11>);
+
+// Gold
+val oreGold = <ore:oreGold>;
+oreGold.add(<MorePlanet:venus_block:10>);
+
+// Xeonium
+//Drops xeonium gem
+val oreXeonium = <ore:oreXeonium>;
+oreXeonium.add(<MorePlanet:pluto_block:7>);
+val gemXeonium = <ore:gemXeonium>;
+gemXeonium.add(<MorePlanet:pluto_item>);
+val itemXeonium = <ore:itemXeonium>;
+itemXeonium.add(<MorePlanet:pluto_item>);
+val dustXeonium = <ore:dustXeonium>;
+dustXeonium.add(<MorePlanet:xeonium_dust>);
+
+// Desh
+val oreDesh = <ore:oreDesh>;
+oreDesh.add(<GalacticraftMars:tile.mars:2>);
+oreDesh.add(<MorePlanet:phobos_block:7>);
+oreDesh.add(<MorePlanet:deimos_block:7>);
+val itemDesh = <ore:itemDesh>;
+itemDesh.add(<GalacticraftMars:item.null>);
+val ingotDesh = <ore:ingotDesh>;
+ingotDesh.add(<GalacticraftMars:item.null:2>);
+val blockDesh = <ore:blockDesh>;
+blockDesh.add(<GalacticraftMars:tile.mars:8>);*/
