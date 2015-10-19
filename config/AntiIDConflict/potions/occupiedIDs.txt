@@ -1,4 +1,4 @@
-Total amount of occupied potion ids: 162
+Total amount of occupied potion ids: 158
 Table of occupied potion ids and their owners
 id:name(class)
 1 : potion.moveSpeed (net.minecraft.potion.Potion)
@@ -76,9 +76,6 @@ id:name(class)
 85 : Violet Curse (pixlepix.auracascade.potions.PotionVioletCurse)
 86 : Yellow Curse (pixlepix.auracascade.potions.PotionYellowCurse)
 87 : potion.blood_seal (fox.spiteful.forbidden.potions.PotionBloodSeal)
-88 : Bleeding (com.arc.bloodarsenal.common.potion.PotionBloodArsenal)
-89 : Swimming (com.arc.bloodarsenal.common.potion.PotionBloodArsenal)
-90 : Vampiric Aura (com.arc.bloodarsenal.common.potion.PotionBloodArsenal)
 91 : botania.potion.soulCross (vazkii.botania.common.brew.potion.PotionSoulCross)
 92 : botania.potion.featherFeet (vazkii.botania.common.brew.potion.PotionFeatherfeet)
 93 : botania.potion.emptiness (vazkii.botania.common.brew.potion.PotionEmptiness)
@@ -130,7 +127,6 @@ id:name(class)
 139 : witchery:potion.worship (com.emoniph.witchery.brewing.potions.PotionWorship)
 140 : witchery:potion.wrappedinvine (com.emoniph.witchery.brewing.potions.PotionWrappedInVine)
 141 : ic2.potion.radiation (ic2.core.IC2Potion)
-163 : Frozen Solid (Reika.RotaryCraft.Auxiliary.FreezePotion)
 164 : Agility (am2.buffs.ArsMagicaPotion)
 165 : Astral Distortion (am2.buffs.ArsMagicaPotion)
 166 : Burnout Redux (am2.buffs.ArsMagicaPotion)

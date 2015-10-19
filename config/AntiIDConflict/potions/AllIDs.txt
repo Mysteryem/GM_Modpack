@@ -1,5 +1,5 @@
-Total amount of free potion ids: 190
-Total amount of occupied potion ids: 162
+Total amount of free potion ids: 194
+Total amount of occupied potion ids: 158
 Total amount of conflicted potion ids: 0
 All ids and their position:
 0 is Avaible
@@ -90,9 +90,9 @@ All ids and their position:
 85 is Occupied by Violet Curse (pixlepix.auracascade.potions.PotionVioletCurse)
 86 is Occupied by Yellow Curse (pixlepix.auracascade.potions.PotionYellowCurse)
 87 is Occupied by potion.blood_seal (fox.spiteful.forbidden.potions.PotionBloodSeal)
-88 is Occupied by Bleeding (com.arc.bloodarsenal.common.potion.PotionBloodArsenal)
-89 is Occupied by Swimming (com.arc.bloodarsenal.common.potion.PotionBloodArsenal)
-90 is Occupied by Vampiric Aura (com.arc.bloodarsenal.common.potion.PotionBloodArsenal)
+88 is Avaible
+89 is Avaible
+90 is Avaible
 91 is Occupied by botania.potion.soulCross (vazkii.botania.common.brew.potion.PotionSoulCross)
 92 is Occupied by botania.potion.featherFeet (vazkii.botania.common.brew.potion.PotionFeatherfeet)
 93 is Occupied by botania.potion.emptiness (vazkii.botania.common.brew.potion.PotionEmptiness)
@@ -165,7 +165,7 @@ All ids and their position:
 160 is Avaible
 161 is Avaible
 162 is Avaible
-163 is Occupied by Frozen Solid (Reika.RotaryCraft.Auxiliary.FreezePotion)
+163 is Avaible
 164 is Occupied by Agility (am2.buffs.ArsMagicaPotion)
 165 is Occupied by Astral Distortion (am2.buffs.ArsMagicaPotion)
 166 is Occupied by Burnout Redux (am2.buffs.ArsMagicaPotion)

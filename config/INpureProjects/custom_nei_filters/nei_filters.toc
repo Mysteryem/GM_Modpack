@@ -13,3 +13,17 @@ Bibliocraft.js
 AppliedEnergistics2.js
 Tcon.js
 MFR.js
+GM_AdvancedGenetics.js
+GM_Aroma1997Core.js
+GM_ArsMagica.js
+GM_CaveBiomes.js
+GM_Decocraft.js
+GM_ExtraCells.js
+GM_Gendustry.js
+GM_Genetics.js
+GM_IC2.js
+GM_OpenBlocks.js
+GM_ProjectZulu¦Core.js
+GM_UBCOreRegistrar.js
+GM_UndergroundBiomes.js
+GM_WitchingGadgets.js

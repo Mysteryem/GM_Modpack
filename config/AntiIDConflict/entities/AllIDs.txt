@@ -26,11 +26,11 @@
 25 is Occupied by enderzoo.WitherWitch(crazypants.enderzoo.entity.EntityWitherWitch)
 26 is Occupied by enderzoo.WitherCat(crazypants.enderzoo.entity.EntityWitherCat)
 27 is Occupied by enderzoo.DireWolf(crazypants.enderzoo.entity.EntityDireWolf)
-28 is Occupied by enderzoo.DireSlime(crazypants.enderzoo.entity.EntityDireSlime)
-29 is Occupied by EntityPrimedCharge(crazypants.enderzoo.charge.EntityPrimedCharge)
-30 is Occupied by jaffasDuck(monnef.jaffas.food.entity.EntityDuck)
-31 is Occupied by jaffasSpider(monnef.jaffas.food.entity.EntityLittleSpider)
-32 is Occupied by lootablebodies_EntityLootableBody(cyano.lootable.entities.EntityLootableBody)
+28 is Occupied by EntityPrimedCharge(crazypants.enderzoo.charge.EntityPrimedCharge)
+29 is Occupied by jaffasDuck(monnef.jaffas.food.entity.EntityDuck)
+30 is Occupied by jaffasSpider(monnef.jaffas.food.entity.EntityLittleSpider)
+31 is Occupied by lootablebodies_EntityLootableBody(cyano.lootable.entities.EntityLootableBody)
+32 is Occupied by EAReplicator(mods.eln.entity.ReplicatorEntity)
 33 is Occupied by witherSkeleton(crazypants.enderio.entity.EntityWitherSkeleton)
 34 is Occupied by EvolvedSpider(micdoodle8.mods.galacticraft.core.entities.EntityEvolvedSpider)
 35 is Occupied by EvolvedZombie(micdoodle8.mods.galacticraft.core.entities.EntityEvolvedZombie)
@@ -65,11 +65,11 @@
 64 is Occupied by WitherBoss(net.minecraft.entity.boss.EntityWither)
 65 is Occupied by Bat(net.minecraft.entity.passive.EntityBat)
 66 is Occupied by Witch(net.minecraft.entity.monster.EntityWitch)
-67 is Occupied by EAReplicator(mods.eln.entity.ReplicatorEntity)
-68 is Occupied by Sludgeling(micdoodle8.mods.galacticraft.planets.mars.entities.EntitySludgeling)
-69 is Occupied by Slimeling(micdoodle8.mods.galacticraft.planets.mars.entities.EntitySlimeling)
-70 is Occupied by CreeperBoss(micdoodle8.mods.galacticraft.planets.mars.entities.EntityCreeperBoss)
-71 is Occupied by Guardian(mrcomputerghost.runicdungeons.entity.EntityGuardian)
+67 is Occupied by Sludgeling(micdoodle8.mods.galacticraft.planets.mars.entities.EntitySludgeling)
+68 is Occupied by Slimeling(micdoodle8.mods.galacticraft.planets.mars.entities.EntitySlimeling)
+69 is Occupied by CreeperBoss(micdoodle8.mods.galacticraft.planets.mars.entities.EntityCreeperBoss)
+70 is Occupied by Guardian(mrcomputerghost.runicdungeons.entity.EntityGuardian)
+71 is Avaible
 72 is Avaible
 73 is Avaible
 74 is Avaible

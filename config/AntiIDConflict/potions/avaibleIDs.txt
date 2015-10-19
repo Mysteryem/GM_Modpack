@@ -13,6 +13,9 @@ List of free potion ids:
 48
 49
 50
+88
+89
+90
 142
 143
 144
@@ -34,6 +37,7 @@ List of free potion ids:
 160
 161
 162
+163
 193
 194
 195

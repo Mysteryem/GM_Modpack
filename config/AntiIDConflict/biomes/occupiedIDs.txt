@@ -1,4 +1,4 @@
-Total amount of occupied biome ids: 199
+Total amount of occupied biome ids: 204
 Table of occupied biome ids and their owners
 id:name(class)
 0 : Ocean (class biomesoplenty.common.biome.overridden.BiomeGenBOPOcean)
@@ -200,3 +200,8 @@ id:name(class)
 246 : Thicket (class biomesoplenty.common.biome.overworld.BiomeGenThicket)
 247 : Tropical Rainforest (class biomesoplenty.common.biome.overworld.BiomeGenTropicalRainforest)
 248 : Seasonal Forest Clearing (class biomesoplenty.common.biome.overworld.sub.BiomeGenSeasonalForestClearing)
+249 : Dense Forest (class biomesoplenty.common.biome.overworld.BiomeGenDenseForest)
+250 : Eucalyptus Forest (class biomesoplenty.common.biome.overworld.BiomeGenEucalyptusForest)
+251 : Land of Lakes (class biomesoplenty.common.biome.overworld.BiomeGenLandOfLakes)
+252 : Xeric Shrubland (class biomesoplenty.common.biome.overworld.BiomeGenXericShrubland)
+253 : Land of Lakes Marsh (class biomesoplenty.common.biome.overworld.sub.BiomeGenLandOfLakesMarsh)

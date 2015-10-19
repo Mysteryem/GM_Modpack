@@ -62,7 +62,7 @@
 -39 is Occupied by: Mirror, Provider: (id: -39, class: class com.emoniph.witchery.dimension.WorldProviderMirror)
 -38 is Occupied by: Torment, Provider: (id: -38, class: class com.emoniph.witchery.dimension.WorldProviderTorment)
 -37 is Occupied by: Spirit World, Provider: (id: -37, class: class com.emoniph.witchery.dimension.WorldProviderDreamWorld)
--36 is Avaible
+-36 is Occupied by: Land of Darkness, Provider: (id: -36, class: class mods.fossil.dimension.anu.WorldProviderAnu)
 -35 is Occupied by: the Ancient Treasure Room, Provider: (id: -35, class: class mods.fossil.dimension.treasure.WorldProviderTreasure)
 -34 is Occupied by: Dungeon, Provider: (id: -34, class: class mrcomputerghost.runicdungeons.dim.WorldProviderDungeon)
 -33 is Avaible
@@ -145,7 +145,7 @@
 44 is Avaible
 45 is Avaible
 46 is Avaible
-47 is Occupied by: Land of Darkness, Provider: (id: 47, class: class mods.fossil.dimension.anu.WorldProviderAnu)
+47 is Avaible
 48 is Avaible
 49 is Avaible
 50 is Avaible

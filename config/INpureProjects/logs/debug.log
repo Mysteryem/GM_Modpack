@@ -5,57 +5,6 @@ Setting up Java Library...
 Setting up FML Library...
 Setting up NEI Library...
 Setting up CreativeTab library...
-DragonAPI:minecraft:bed_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:bed_technical. If this is not correct please report it as a bug!
-The mod DragonAPI is registering items or blocks with bad registry names. Names should not contain multiple colons as it breaks the ability to do reverse-lookups through FML. Please tell whoever made this mod that this should be changed!
-DragonAPI:minecraft:brewing_stand_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:brewing_stand_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:cake_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:cake_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:cauldron_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:cauldron_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:flower_pot_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:flower_pot_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:iron_door_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:iron_door_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:lit_redstone_lamp_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:lit_redstone_lamp_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:lit_redstone_ore_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:lit_redstone_ore_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:melon_stem_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:melon_stem_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:nether_wart_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:nether_wart_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:piston_head_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:piston_head_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:powered_comparator_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:powered_comparator_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:powered_repeater_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:powered_repeater_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:pumpkin_stem_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:pumpkin_stem_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:redstone_wire_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:redstone_wire_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:reeds_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:reeds_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:skull_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:skull_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:standing_sign_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:standing_sign_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:tripwire_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:tripwire_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:unlit_redstone_torch_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:unlit_redstone_torch_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:unpowered_comparator_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:unpowered_comparator_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:unpowered_repeater_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:unpowered_repeater_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:wall_sign_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:wall_sign_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:wheat_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:wheat_technical. If this is not correct please report it as a bug!
-DragonAPI:minecraft:wooden_door_technical has a bad registry name! Attempting to parse and reassemble correctly...
-Parsed bad name into: modid: DragonAPI, name: minecraft:wooden_door_technical. If this is not correct please report it as a bug!
 ubcores:igneous_arsmagica2:ores has a bad registry name! Attempting to parse and reassemble correctly...
 Parsed bad name into: modid: ubcores, name: igneous_arsmagica2:ores. If this is not correct please report it as a bug!
 The mod ubcores is registering items or blocks with bad registry names. Names should not contain multiple colons as it breaks the ability to do reverse-lookups through FML. Please tell whoever made this mod that this should be changed!
@@ -69,6 +18,8 @@ ubcores:igneous_draconicevolution:draconiumOre has a bad registry name! Attempti
 Parsed bad name into: modid: ubcores, name: igneous_draconicevolution:draconiumOre. If this is not correct please report it as a bug!
 ubcores:igneous_factorization:darkIronOre has a bad registry name! Attempting to parse and reassemble correctly...
 Parsed bad name into: modid: ubcores, name: igneous_factorization:darkIronOre. If this is not correct please report it as a bug!
+ubcores:igneous_gcewing_sg:naquadahOre has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: igneous_gcewing_sg:naquadahOre. If this is not correct please report it as a bug!
 ubcores:metamorphic_arsmagica2:ores has a bad registry name! Attempting to parse and reassemble correctly...
 Parsed bad name into: modid: ubcores, name: metamorphic_arsmagica2:ores. If this is not correct please report it as a bug!
 ubcores:metamorphic_arsmagica2:ores.1 has a bad registry name! Attempting to parse and reassemble correctly...
@@ -81,6 +32,8 @@ ubcores:metamorphic_draconicevolution:draconiumOre has a bad registry name! Atte
 Parsed bad name into: modid: ubcores, name: metamorphic_draconicevolution:draconiumOre. If this is not correct please report it as a bug!
 ubcores:metamorphic_factorization:darkIronOre has a bad registry name! Attempting to parse and reassemble correctly...
 Parsed bad name into: modid: ubcores, name: metamorphic_factorization:darkIronOre. If this is not correct please report it as a bug!
+ubcores:metamorphic_gcewing_sg:naquadahOre has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: metamorphic_gcewing_sg:naquadahOre. If this is not correct please report it as a bug!
 ubcores:sedimentary_arsmagica2:ores has a bad registry name! Attempting to parse and reassemble correctly...
 Parsed bad name into: modid: ubcores, name: sedimentary_arsmagica2:ores. If this is not correct please report it as a bug!
 ubcores:sedimentary_arsmagica2:ores.1 has a bad registry name! Attempting to parse and reassemble correctly...
@@ -93,8 +46,12 @@ ubcores:sedimentary_draconicevolution:draconiumOre has a bad registry name! Atte
 Parsed bad name into: modid: ubcores, name: sedimentary_draconicevolution:draconiumOre. If this is not correct please report it as a bug!
 ubcores:sedimentary_factorization:darkIronOre has a bad registry name! Attempting to parse and reassemble correctly...
 Parsed bad name into: modid: ubcores, name: sedimentary_factorization:darkIronOre. If this is not correct please report it as a bug!
+ubcores:sedimentary_gcewing_sg:naquadahOre has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: sedimentary_gcewing_sg:naquadahOre. If this is not correct please report it as a bug!
 Found creative tab: tabBloodMagic
 Found creative tab: misc
+Found creative tab: agricraft
+Found creative tab: materials
 Found creative tab: archimedesTab
 Found creative tab: aroma1997core:creativetab
 Found creative tab: Automagy
@@ -102,7 +59,6 @@ Found creative tab: tools
 Found creative tab: BiblioCraft
 Found creative tab: BiblioCraftLights
 Found creative tab: BigReactors
-Found creative tab: materials
 Found creative tab: apiculture
 Found creative tab: buildingBlocks
 Found creative tab: tabBiomesOPlenty
@@ -110,8 +66,8 @@ Found creative tab: BA_TAB
 Found creative tab: Botania
 Found creative tab: Botany
 Found creative tab: buildcraft.main
-Found creative tab: buildcraft.boards
 Found creative tab: buildcraft.pipes
+Found creative tab: buildcraft.boards
 Found creative tab: buildcraft.facades
 Found creative tab: buildcraft.gates
 Found creative tab: Calculator
@@ -129,6 +85,7 @@ Found creative tab: food
 Found creative tab: toolsAndWeapons
 Found creative tab: tabRadioMod
 Found creative tab: Eln
+Found creative tab: enchiridion
 Found creative tab: EnderIO
 Found creative tab: EnderZoo
 Found creative tab: extratic.parts
@@ -145,20 +102,14 @@ Found creative tab: mobcrystal
 Found creative tab: forestry
 Found creative tab: GalacticraftItems
 Found creative tab: GalacticraftBlocks
+Found creative tab: gardenCore
+Found creative tab: gardenTrees
 Found creative tab: Genetics
 Found creative tab: IC2
 Found creative tab: tabHardcoreEnderExpansion
 Found creative tab: Nuclear Control 2
 Found creative tab: ImmersiveEngineering
 Found creative tab: jabba
-Found creative tab: jaffas.power
-Found creative tab: jaffas
-Found creative tab: jaffas.technic
-Found creative tab: jaffas.trees
-Found creative tab: jaffas.xmas
-Found creative tab: LanteaCraft
-Found creative tab: LanteaCraft: Machines
-Found creative tab: LanteaCraft: Stargates
 Found creative tab: Logistics_Pipes
 Found creative tab: redstone
 Found creative tab: transportation
@@ -191,11 +142,6 @@ Found creative tab: projectZuluPotionTab
 Found creative tab: RArm.creativeTab
 Found creative tab: railcraft
 Found creative tab: redstonearsenal.creativeTab
-Found creative tab: RotaryCraft
-Found creative tab: RotaryCraft Tools
-Found creative tab: RotaryCraft Items
-Found creative tab: Mod Ores
-Found creative tab: Spawners
 Found creative tab: tabSanguimancy
 Found creative tab: storageDrawers
 Found creative tab: storageDrawersBop
@@ -259,6 +205,7 @@ Found creative tab: Fossil Material
 Found creative tab: Fossil Food
 Found creative tab: Fossil Test
 Found creative tab: Fossil Deco
+Found creative tab: funkylocomotion
 Found creative tab: bdew.gendustry
 Found creative tab: bdew.samples
 Found creative tab: bdew.templates
@@ -275,8 +222,6 @@ Found creative tab: tabMatterOverdrive_modules
 Found creative tab: powersuits
 Found creative tab: props.Main
 Found creative tab: search
-Found creative tab: inventoryGenerators
-Found creative tab: structureTools
 Found creative tab: RfTools
 Found creative tab: RfToolsDimlets
 Found creative tab: runicdungeons
@@ -343,17 +288,17 @@ override called. Params: Mekanism, GlowPanel, 0
 Regex match found! Mekanism:GlowPanel matches Mekanism:GlowPanel.
 Found ItemStack Mekanism:GlowPanel. 64xitem.GlowPanel@0
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: ImmersiveEngineering:stoneDevice_4
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:stoneDevice_4
+getRandomMaterial called. Returned: ImmersiveEngineering:metalDecoration_4
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:metalDecoration_4
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: ExtraUtilities:trading_post
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, ExtraUtilities:trading_post
+getRandomMaterial called. Returned: ImmersiveEngineering:storage_10
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, ImmersiveEngineering:storage_10
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 6736
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1562
+getFacadesSize called. Returned: 5241
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 3576
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
 Regex match found! BiblioCraft:* matches BiblioCraft:Armor Stand.
@@ -489,8 +434,8 @@ Found ItemStack BiblioCraft:tile.BiblioFramedChest. 64xtile.BiblioFramedChest@0
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 4685
-override called. Params: appliedenergistics2, item.ItemFacade, 456
+getNumberOfTypes called. Returned: 3186
+override called. Params: appliedenergistics2, item.ItemFacade, 710
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js
@@ -510,3 +455,1005 @@ override called. Params: MineFactoryReloaded, tile.mfr.stainedglass.block, 0
 hide called. Params: MineFactoryReloaded:fluid.mfr.liquid.milk.still, 0
 override called. Params: MineFactoryReloaded, tile.mfr.stainedglass.pane, 0
 override called. Params: MineFactoryReloaded, tile.mfr.conveyor, 0
+Loading: GM_AdvancedGenetics.js
+hide called. Params: advancedgenetics, healCrystal
+Regex match found! advancedgenetics:healCrystal matches advancedgenetics:healCrystal.
+Found ItemStack advancedgenetics:healCrystal. 1xitem.healCrystalItem@0
+Loading: GM_Aroma1997Core.js
+hide called. Params: Aroma1997Core, wrenched
+Regex match found! Aroma1997Core:wrenched matches Aroma1997Core:wrenched.
+Found ItemStack Aroma1997Core:wrenched. 1xitem.aroma1997core:wrenched@0
+Loading: GM_ArsMagica.js
+override called. Params: arsmagica2, Crystal Phylactery, 0
+Regex match found! arsmagica2:Crystal Phylactery matches arsmagica2:Crystal Phylactery.
+Found ItemStack arsmagica2:Crystal Phylactery. 1xitem.arsmagica2:crystal_phylactery@0
+Loading: GM_CaveBiomes.js
+hide called. Params: CaveBiomes, Mummy_spawner
+Regex match found! CaveBiomes:Mummy_spawner matches CaveBiomes:Mummy_spawner.
+Found ItemStack CaveBiomes:Mummy_spawner. 64xtile.Mummy_spawner@0
+hide called. Params: CaveBiomes, Pharoh_spawner
+Regex match found! CaveBiomes:Pharoh_spawner matches CaveBiomes:Pharoh_spawner.
+Found ItemStack CaveBiomes:Pharoh_spawner. 64xtile.Pharoh_spawner@0
+hide called. Params: CaveBiomes, SkeletonKnight_spawner
+Regex match found! CaveBiomes:SkeletonKnight_spawner matches CaveBiomes:SkeletonKnight_spawner.
+Found ItemStack CaveBiomes:SkeletonKnight_spawner. 64xtile.SkeletonKnight_spawner@0
+hide called. Params: CaveBiomes, SkeletonMage_spawner
+Regex match found! CaveBiomes:SkeletonMage_spawner matches CaveBiomes:SkeletonMage_spawner.
+Found ItemStack CaveBiomes:SkeletonMage_spawner. 64xtile.SkeletonMage_spawner@0
+hide called. Params: CaveBiomes, DerangedGolem_spawner
+Regex match found! CaveBiomes:DerangedGolem_spawner matches CaveBiomes:DerangedGolem_spawner.
+Found ItemStack CaveBiomes:DerangedGolem_spawner. 64xtile.DerangedGolem_spawner@0
+hide called. Params: CaveBiomes, Witch_spawner
+Regex match found! CaveBiomes:Witch_spawner matches CaveBiomes:Witch_spawner.
+Found ItemStack CaveBiomes:Witch_spawner. 64xtile.Witch_spawner@0
+hide called. Params: CaveBiomes, icicle_small
+Regex match found! CaveBiomes:icicle_small matches CaveBiomes:icicle_small.
+Found ItemStack CaveBiomes:icicle_small. 64xtile.icicle_small@0
+hide called. Params: CaveBiomes, icicle_base
+Regex match found! CaveBiomes:icicle_base matches CaveBiomes:icicle_base.
+Found ItemStack CaveBiomes:icicle_base. 64xtile.icicle_base@0
+hide called. Params: CaveBiomes, icicle_tip
+Regex match found! CaveBiomes:icicle_tip matches CaveBiomes:icicle_tip.
+Found ItemStack CaveBiomes:icicle_tip. 64xtile.icicle_tip@0
+hide called. Params: CaveBiomes, roots
+Regex match found! CaveBiomes:roots matches CaveBiomes:roots.
+Found ItemStack CaveBiomes:roots. 64xtile.roots@0
+hide called. Params: CaveBiomes, foxfire
+Regex match found! CaveBiomes:foxfire matches CaveBiomes:foxfire.
+Found ItemStack CaveBiomes:foxfire. 64xtile.foxfire@0
+hide called. Params: CaveBiomes, hanging_foxfire
+Regex match found! CaveBiomes:hanging_foxfire matches CaveBiomes:hanging_foxfire.
+Found ItemStack CaveBiomes:hanging_foxfire. 64xtile.hanging_foxfire@0
+hide called. Params: CaveBiomes, ice_patch
+Regex match found! CaveBiomes:ice_patch matches CaveBiomes:ice_patch.
+Found ItemStack CaveBiomes:ice_patch. 64xtile.ice_patch@0
+hide called. Params: CaveBiomes, glowstone_stalactite_small
+Regex match found! CaveBiomes:glowstone_stalactite_small matches CaveBiomes:glowstone_stalactite_small.
+Found ItemStack CaveBiomes:glowstone_stalactite_small. 64xtile.glowstone_stalactite_small@0
+override called. Params: CaveBiomes, mossy_dirt, 0,2
+Regex match found! CaveBiomes:mossy_dirt matches CaveBiomes:mossy_dirt.
+Found ItemStack CaveBiomes:mossy_dirt. 64xtile.mossy_dirt@0
+hide called. Params: CaveBiomes, frozen_roots
+Regex match found! CaveBiomes:frozen_roots matches CaveBiomes:frozen_roots.
+Found ItemStack CaveBiomes:frozen_roots. 64xtile.frozen_roots@0
+hide called. Params: CaveBiomes, frozen_redstone_stalactite_small
+Regex match found! CaveBiomes:frozen_redstone_stalactite_small matches CaveBiomes:frozen_redstone_stalactite_small.
+Found ItemStack CaveBiomes:frozen_redstone_stalactite_small. 64xtile.frozen_redstone_stalactite_small@0
+hide called. Params: CaveBiomes, frozen_redstone_stalactite_base
+Regex match found! CaveBiomes:frozen_redstone_stalactite_base matches CaveBiomes:frozen_redstone_stalactite_base.
+Found ItemStack CaveBiomes:frozen_redstone_stalactite_base. 64xtile.frozen_redstone_stalactite_base@0
+hide called. Params: CaveBiomes, frozen_redstone_stalactite_tip
+Regex match found! CaveBiomes:frozen_redstone_stalactite_tip matches CaveBiomes:frozen_redstone_stalactite_tip.
+Found ItemStack CaveBiomes:frozen_redstone_stalactite_tip. 64xtile.frozen_redstone_stalactite_tip@0
+hide called. Params: CaveBiomes, frozen_redstone_column
+Regex match found! CaveBiomes:frozen_redstone_column matches CaveBiomes:frozen_redstone_column.
+Found ItemStack CaveBiomes:frozen_redstone_column. 64xtile.frozen_redstone_column@0
+hide called. Params: CaveBiomes, frozen_redstone_stalagmite_small
+Regex match found! CaveBiomes:frozen_redstone_stalagmite_small matches CaveBiomes:frozen_redstone_stalagmite_small.
+Found ItemStack CaveBiomes:frozen_redstone_stalagmite_small. 64xtile.frozen_redstone_stalagmite_small@0
+hide called. Params: CaveBiomes, frozen_redstone_stalagmite_base
+Regex match found! CaveBiomes:frozen_redstone_stalagmite_base matches CaveBiomes:frozen_redstone_stalagmite_base.
+Found ItemStack CaveBiomes:frozen_redstone_stalagmite_base. 64xtile.frozen_redstone_stalagmite_base@0
+hide called. Params: CaveBiomes, frozen_redstone_stalagmite_tip
+Regex match found! CaveBiomes:frozen_redstone_stalagmite_tip matches CaveBiomes:frozen_redstone_stalagmite_tip.
+Found ItemStack CaveBiomes:frozen_redstone_stalagmite_tip. 64xtile.frozen_redstone_stalagmite_tip@0
+hide called. Params: CaveBiomes, frozen_lit_redstone_stalactite_small
+Regex match found! CaveBiomes:frozen_lit_redstone_stalactite_small matches CaveBiomes:frozen_lit_redstone_stalactite_small.
+Found ItemStack CaveBiomes:frozen_lit_redstone_stalactite_small. 64xtile.frozen_lit_redstone_stalactite_small@0
+hide called. Params: CaveBiomes, frozen_lit_redstone_stalactite_base
+Regex match found! CaveBiomes:frozen_lit_redstone_stalactite_base matches CaveBiomes:frozen_lit_redstone_stalactite_base.
+Found ItemStack CaveBiomes:frozen_lit_redstone_stalactite_base. 64xtile.frozen_lit_redstone_stalactite_base@0
+hide called. Params: CaveBiomes, frozen_lit_redstone_stalactite_tip
+Regex match found! CaveBiomes:frozen_lit_redstone_stalactite_tip matches CaveBiomes:frozen_lit_redstone_stalactite_tip.
+Found ItemStack CaveBiomes:frozen_lit_redstone_stalactite_tip. 64xtile.frozen_lit_redstone_stalactite_tip@0
+hide called. Params: CaveBiomes, frozen_lit_redstone_column
+Regex match found! CaveBiomes:frozen_lit_redstone_column matches CaveBiomes:frozen_lit_redstone_column.
+Found ItemStack CaveBiomes:frozen_lit_redstone_column. 64xtile.frozen_lit_redstone_column@0
+hide called. Params: CaveBiomes, frozen_lit_redstone_stalagmite_small
+Regex match found! CaveBiomes:frozen_lit_redstone_stalagmite_small matches CaveBiomes:frozen_lit_redstone_stalagmite_small.
+Found ItemStack CaveBiomes:frozen_lit_redstone_stalagmite_small. 64xtile.frozen_lit_redstone_stalagmite_small@0
+hide called. Params: CaveBiomes, frozen_lit_redstone_stalagmite_base
+Regex match found! CaveBiomes:frozen_lit_redstone_stalagmite_base matches CaveBiomes:frozen_lit_redstone_stalagmite_base.
+Found ItemStack CaveBiomes:frozen_lit_redstone_stalagmite_base. 64xtile.frozen_lit_redstone_stalagmite_base@0
+hide called. Params: CaveBiomes, frozen_lit_redstone_stalagmite_tip
+Regex match found! CaveBiomes:frozen_lit_redstone_stalagmite_tip matches CaveBiomes:frozen_lit_redstone_stalagmite_tip.
+Found ItemStack CaveBiomes:frozen_lit_redstone_stalagmite_tip. 64xtile.frozen_lit_redstone_stalagmite_tip@0
+hide called. Params: CaveBiomes, redstone_stalactite_small
+Regex match found! CaveBiomes:redstone_stalactite_small matches CaveBiomes:redstone_stalactite_small.
+Found ItemStack CaveBiomes:redstone_stalactite_small. 64xtile.redstone_stalactite_small@0
+hide called. Params: CaveBiomes, redstone_stalactite_base
+Regex match found! CaveBiomes:redstone_stalactite_base matches CaveBiomes:redstone_stalactite_base.
+Found ItemStack CaveBiomes:redstone_stalactite_base. 64xtile.redstone_stalactite_base@0
+hide called. Params: CaveBiomes, redstone_stalactite_tip
+Regex match found! CaveBiomes:redstone_stalactite_tip matches CaveBiomes:redstone_stalactite_tip.
+Found ItemStack CaveBiomes:redstone_stalactite_tip. 64xtile.redstone_stalactite_tip@0
+hide called. Params: CaveBiomes, redstone_column
+Regex match found! CaveBiomes:redstone_column matches CaveBiomes:redstone_column.
+Found ItemStack CaveBiomes:redstone_column. 64xtile.redstone_column@0
+hide called. Params: CaveBiomes, redstone_stalagmite_small
+Regex match found! CaveBiomes:redstone_stalagmite_small matches CaveBiomes:redstone_stalagmite_small.
+Found ItemStack CaveBiomes:redstone_stalagmite_small. 64xtile.redstone_stalagmite_small@0
+hide called. Params: CaveBiomes, redstone_stalagmite_base
+Regex match found! CaveBiomes:redstone_stalagmite_base matches CaveBiomes:redstone_stalagmite_base.
+Found ItemStack CaveBiomes:redstone_stalagmite_base. 64xtile.redstone_stalagmite_base@0
+hide called. Params: CaveBiomes, redstone_stalagmite_tip
+Regex match found! CaveBiomes:redstone_stalagmite_tip matches CaveBiomes:redstone_stalagmite_tip.
+Found ItemStack CaveBiomes:redstone_stalagmite_tip. 64xtile.redstone_stalagmite_tip@0
+hide called. Params: CaveBiomes, lit_redstone_stalactite_small
+Regex match found! CaveBiomes:lit_redstone_stalactite_small matches CaveBiomes:lit_redstone_stalactite_small.
+Found ItemStack CaveBiomes:lit_redstone_stalactite_small. 64xtile.lit_redstone_stalactite_small@0
+hide called. Params: CaveBiomes, lit_redstone_stalactite_base
+Regex match found! CaveBiomes:lit_redstone_stalactite_base matches CaveBiomes:lit_redstone_stalactite_base.
+Found ItemStack CaveBiomes:lit_redstone_stalactite_base. 64xtile.lit_redstone_stalactite_base@0
+hide called. Params: CaveBiomes, lit_redstone_stalactite_tip
+Regex match found! CaveBiomes:lit_redstone_stalactite_tip matches CaveBiomes:lit_redstone_stalactite_tip.
+Found ItemStack CaveBiomes:lit_redstone_stalactite_tip. 64xtile.lit_redstone_stalactite_tip@0
+hide called. Params: CaveBiomes, lit_redstone_column
+Regex match found! CaveBiomes:lit_redstone_column matches CaveBiomes:lit_redstone_column.
+Found ItemStack CaveBiomes:lit_redstone_column. 64xtile.lit_redstone_column@0
+hide called. Params: CaveBiomes, lit_redstone_stalagmite_small
+Regex match found! CaveBiomes:lit_redstone_stalagmite_small matches CaveBiomes:lit_redstone_stalagmite_small.
+Found ItemStack CaveBiomes:lit_redstone_stalagmite_small. 64xtile.lit_redstone_stalagmite_small@0
+hide called. Params: CaveBiomes, lit_redstone_stalagmite_base
+Regex match found! CaveBiomes:lit_redstone_stalagmite_base matches CaveBiomes:lit_redstone_stalagmite_base.
+Found ItemStack CaveBiomes:lit_redstone_stalagmite_base. 64xtile.lit_redstone_stalagmite_base@0
+hide called. Params: CaveBiomes, lit_redstone_stalagmite_tip
+Regex match found! CaveBiomes:lit_redstone_stalagmite_tip matches CaveBiomes:lit_redstone_stalagmite_tip.
+Found ItemStack CaveBiomes:lit_redstone_stalagmite_tip. 64xtile.lit_redstone_stalagmite_tip@0
+hide called. Params: CaveBiomes, stone_lavacrust
+Regex match found! CaveBiomes:stone_lavacrust matches CaveBiomes:stone_lavacrust.
+Found ItemStack CaveBiomes:stone_lavacrust. 64xtile.stone_lavacrust@0
+hide called. Params: CaveBiomes, frozen_stone_stalactite_small
+Regex match found! CaveBiomes:frozen_stone_stalactite_small matches CaveBiomes:frozen_stone_stalactite_small.
+Found ItemStack CaveBiomes:frozen_stone_stalactite_small. 64xtile.frozen_stone_stalactite_small@0
+hide called. Params: CaveBiomes, frozen_stone_stalactite_base
+Regex match found! CaveBiomes:frozen_stone_stalactite_base matches CaveBiomes:frozen_stone_stalactite_base.
+Found ItemStack CaveBiomes:frozen_stone_stalactite_base. 64xtile.frozen_stone_stalactite_base@0
+hide called. Params: CaveBiomes, frozen_stone_stalactite_tip
+Regex match found! CaveBiomes:frozen_stone_stalactite_tip matches CaveBiomes:frozen_stone_stalactite_tip.
+Found ItemStack CaveBiomes:frozen_stone_stalactite_tip. 64xtile.frozen_stone_stalactite_tip@0
+hide called. Params: CaveBiomes, frozen_stone_column
+Regex match found! CaveBiomes:frozen_stone_column matches CaveBiomes:frozen_stone_column.
+Found ItemStack CaveBiomes:frozen_stone_column. 64xtile.frozen_stone_column@0
+hide called. Params: CaveBiomes, frozen_stone_stalagmite_small
+Regex match found! CaveBiomes:frozen_stone_stalagmite_small matches CaveBiomes:frozen_stone_stalagmite_small.
+Found ItemStack CaveBiomes:frozen_stone_stalagmite_small. 64xtile.frozen_stone_stalagmite_small@0
+hide called. Params: CaveBiomes, frozen_stone_stalagmite_base
+Regex match found! CaveBiomes:frozen_stone_stalagmite_base matches CaveBiomes:frozen_stone_stalagmite_base.
+Found ItemStack CaveBiomes:frozen_stone_stalagmite_base. 64xtile.frozen_stone_stalagmite_base@0
+hide called. Params: CaveBiomes, frozen_stone_stalagmite_tip
+Regex match found! CaveBiomes:frozen_stone_stalagmite_tip matches CaveBiomes:frozen_stone_stalagmite_tip.
+Found ItemStack CaveBiomes:frozen_stone_stalagmite_tip. 64xtile.frozen_stone_stalagmite_tip@0
+hide called. Params: CaveBiomes, frozen_sandstone_stalactite_small
+Regex match found! CaveBiomes:frozen_sandstone_stalactite_small matches CaveBiomes:frozen_sandstone_stalactite_small.
+Found ItemStack CaveBiomes:frozen_sandstone_stalactite_small. 64xtile.frozen_sandstone_stalactite_small@0
+hide called. Params: CaveBiomes, frozen_sandstone_stalactite_base
+Regex match found! CaveBiomes:frozen_sandstone_stalactite_base matches CaveBiomes:frozen_sandstone_stalactite_base.
+Found ItemStack CaveBiomes:frozen_sandstone_stalactite_base. 64xtile.frozen_sandstone_stalactite_base@0
+hide called. Params: CaveBiomes, frozen_sandstone_stalactite_tip
+Regex match found! CaveBiomes:frozen_sandstone_stalactite_tip matches CaveBiomes:frozen_sandstone_stalactite_tip.
+Found ItemStack CaveBiomes:frozen_sandstone_stalactite_tip. 64xtile.frozen_sandstone_stalactite_tip@0
+hide called. Params: CaveBiomes, frozen_sandstone_column
+Regex match found! CaveBiomes:frozen_sandstone_column matches CaveBiomes:frozen_sandstone_column.
+Found ItemStack CaveBiomes:frozen_sandstone_column. 64xtile.frozen_sandstone_column@0
+hide called. Params: CaveBiomes, frozen_sandstone_stalagmite_small
+Regex match found! CaveBiomes:frozen_sandstone_stalagmite_small matches CaveBiomes:frozen_sandstone_stalagmite_small.
+Found ItemStack CaveBiomes:frozen_sandstone_stalagmite_small. 64xtile.frozen_sandstone_stalagmite_small@0
+hide called. Params: CaveBiomes, frozen_sandstone_stalagmite_base
+Regex match found! CaveBiomes:frozen_sandstone_stalagmite_base matches CaveBiomes:frozen_sandstone_stalagmite_base.
+Found ItemStack CaveBiomes:frozen_sandstone_stalagmite_base. 64xtile.frozen_sandstone_stalagmite_base@0
+hide called. Params: CaveBiomes, frozen_sandstone_stalagmite_tip
+Regex match found! CaveBiomes:frozen_sandstone_stalagmite_tip matches CaveBiomes:frozen_sandstone_stalagmite_tip.
+Found ItemStack CaveBiomes:frozen_sandstone_stalagmite_tip. 64xtile.frozen_sandstone_stalagmite_tip@0
+hide called. Params: CaveBiomes, stone_stalactite_small
+Regex match found! CaveBiomes:stone_stalactite_small matches CaveBiomes:stone_stalactite_small.
+Found ItemStack CaveBiomes:stone_stalactite_small. 64xtile.stone_stalactite_small@0
+hide called. Params: CaveBiomes, stone_stalactite_base
+Regex match found! CaveBiomes:stone_stalactite_base matches CaveBiomes:stone_stalactite_base.
+Found ItemStack CaveBiomes:stone_stalactite_base. 64xtile.stone_stalactite_base@0
+hide called. Params: CaveBiomes, stone_stalactite_tip
+Regex match found! CaveBiomes:stone_stalactite_tip matches CaveBiomes:stone_stalactite_tip.
+Found ItemStack CaveBiomes:stone_stalactite_tip. 64xtile.stone_stalactite_tip@0
+hide called. Params: CaveBiomes, stone_column
+Regex match found! CaveBiomes:stone_column matches CaveBiomes:stone_column.
+Found ItemStack CaveBiomes:stone_column. 64xtile.stone_column@0
+hide called. Params: CaveBiomes, stone_stalagmite_small
+Regex match found! CaveBiomes:stone_stalagmite_small matches CaveBiomes:stone_stalagmite_small.
+Found ItemStack CaveBiomes:stone_stalagmite_small. 64xtile.stone_stalagmite_small@0
+hide called. Params: CaveBiomes, stone_stalagmite_base
+Regex match found! CaveBiomes:stone_stalagmite_base matches CaveBiomes:stone_stalagmite_base.
+Found ItemStack CaveBiomes:stone_stalagmite_base. 64xtile.stone_stalagmite_base@0
+hide called. Params: CaveBiomes, stone_stalagmite_tip
+Regex match found! CaveBiomes:stone_stalagmite_tip matches CaveBiomes:stone_stalagmite_tip.
+Found ItemStack CaveBiomes:stone_stalagmite_tip. 64xtile.stone_stalagmite_tip@0
+hide called. Params: CaveBiomes, sandstone_stalactite_small
+Regex match found! CaveBiomes:sandstone_stalactite_small matches CaveBiomes:sandstone_stalactite_small.
+Found ItemStack CaveBiomes:sandstone_stalactite_small. 64xtile.sandstone_stalactite_small@0
+hide called. Params: CaveBiomes, sandstone_stalactite_base
+Regex match found! CaveBiomes:sandstone_stalactite_base matches CaveBiomes:sandstone_stalactite_base.
+Found ItemStack CaveBiomes:sandstone_stalactite_base. 64xtile.sandstone_stalactite_base@0
+hide called. Params: CaveBiomes, sandstone_stalactite_tip
+Regex match found! CaveBiomes:sandstone_stalactite_tip matches CaveBiomes:sandstone_stalactite_tip.
+Found ItemStack CaveBiomes:sandstone_stalactite_tip. 64xtile.sandstone_stalactite_tip@0
+hide called. Params: CaveBiomes, sandstone_column
+Regex match found! CaveBiomes:sandstone_column matches CaveBiomes:sandstone_column.
+Found ItemStack CaveBiomes:sandstone_column. 64xtile.sandstone_column@0
+hide called. Params: CaveBiomes, sandstone_stalagmite_small
+Regex match found! CaveBiomes:sandstone_stalagmite_small matches CaveBiomes:sandstone_stalagmite_small.
+Found ItemStack CaveBiomes:sandstone_stalagmite_small. 64xtile.sandstone_stalagmite_small@0
+hide called. Params: CaveBiomes, sandstone_stalagmite_base
+Regex match found! CaveBiomes:sandstone_stalagmite_base matches CaveBiomes:sandstone_stalagmite_base.
+Found ItemStack CaveBiomes:sandstone_stalagmite_base. 64xtile.sandstone_stalagmite_base@0
+hide called. Params: CaveBiomes, sandstone_stalagmite_tip
+Regex match found! CaveBiomes:sandstone_stalagmite_tip matches CaveBiomes:sandstone_stalagmite_tip.
+Found ItemStack CaveBiomes:sandstone_stalagmite_tip. 64xtile.sandstone_stalagmite_tip@0
+hide called. Params: CaveBiomes, igneous_lavacrust
+Regex match found! CaveBiomes:igneous_lavacrust matches CaveBiomes:igneous_lavacrust.
+Found ItemStack CaveBiomes:igneous_lavacrust. 64xtile.igneous_lavacrust@0
+hide called. Params: CaveBiomes, igneous_stalactite_small
+Regex match found! CaveBiomes:igneous_stalactite_small matches CaveBiomes:igneous_stalactite_small.
+Found ItemStack CaveBiomes:igneous_stalactite_small. 64xtile.igneous_stalactite_small@0
+hide called. Params: CaveBiomes, frozen_igneous_stalactite_small
+Regex match found! CaveBiomes:frozen_igneous_stalactite_small matches CaveBiomes:frozen_igneous_stalactite_small.
+Found ItemStack CaveBiomes:frozen_igneous_stalactite_small. 64xtile.frozen_igneous_stalactite_small@0
+hide called. Params: CaveBiomes, igneous_stalactite_base
+Regex match found! CaveBiomes:igneous_stalactite_base matches CaveBiomes:igneous_stalactite_base.
+Found ItemStack CaveBiomes:igneous_stalactite_base. 64xtile.igneous_stalactite_base@0
+hide called. Params: CaveBiomes, frozen_igneous_stalactite_base
+Regex match found! CaveBiomes:frozen_igneous_stalactite_base matches CaveBiomes:frozen_igneous_stalactite_base.
+Found ItemStack CaveBiomes:frozen_igneous_stalactite_base. 64xtile.frozen_igneous_stalactite_base@0
+hide called. Params: CaveBiomes, igneous_stalactite_tip
+Regex match found! CaveBiomes:igneous_stalactite_tip matches CaveBiomes:igneous_stalactite_tip.
+Found ItemStack CaveBiomes:igneous_stalactite_tip. 64xtile.igneous_stalactite_tip@0
+hide called. Params: CaveBiomes, frozen_igneous_stalactite_tip
+Regex match found! CaveBiomes:frozen_igneous_stalactite_tip matches CaveBiomes:frozen_igneous_stalactite_tip.
+Found ItemStack CaveBiomes:frozen_igneous_stalactite_tip. 64xtile.frozen_igneous_stalactite_tip@0
+hide called. Params: CaveBiomes, igneous_column
+Regex match found! CaveBiomes:igneous_column matches CaveBiomes:igneous_column.
+Found ItemStack CaveBiomes:igneous_column. 64xtile.igneous_column@0
+hide called. Params: CaveBiomes, frozen_igneous_column
+Regex match found! CaveBiomes:frozen_igneous_column matches CaveBiomes:frozen_igneous_column.
+Found ItemStack CaveBiomes:frozen_igneous_column. 64xtile.frozen_igneous_column@0
+hide called. Params: CaveBiomes, igneous_stalagmite_small
+Regex match found! CaveBiomes:igneous_stalagmite_small matches CaveBiomes:igneous_stalagmite_small.
+Found ItemStack CaveBiomes:igneous_stalagmite_small. 64xtile.igneous_stalagmite_small@0
+hide called. Params: CaveBiomes, frozen_igneous_stalagmite_small
+Regex match found! CaveBiomes:frozen_igneous_stalagmite_small matches CaveBiomes:frozen_igneous_stalagmite_small.
+Found ItemStack CaveBiomes:frozen_igneous_stalagmite_small. 64xtile.frozen_igneous_stalagmite_small@0
+hide called. Params: CaveBiomes, igneous_stalagmite_base
+Regex match found! CaveBiomes:igneous_stalagmite_base matches CaveBiomes:igneous_stalagmite_base.
+Found ItemStack CaveBiomes:igneous_stalagmite_base. 64xtile.igneous_stalagmite_base@0
+hide called. Params: CaveBiomes, frozen_igneous_stalagmite_base
+Regex match found! CaveBiomes:frozen_igneous_stalagmite_base matches CaveBiomes:frozen_igneous_stalagmite_base.
+Found ItemStack CaveBiomes:frozen_igneous_stalagmite_base. 64xtile.frozen_igneous_stalagmite_base@0
+hide called. Params: CaveBiomes, igneous_stalagmite_tip
+Regex match found! CaveBiomes:igneous_stalagmite_tip matches CaveBiomes:igneous_stalagmite_tip.
+Found ItemStack CaveBiomes:igneous_stalagmite_tip. 64xtile.igneous_stalagmite_tip@0
+hide called. Params: CaveBiomes, frozen_igneous_stalagmite_tip
+Regex match found! CaveBiomes:frozen_igneous_stalagmite_tip matches CaveBiomes:frozen_igneous_stalagmite_tip.
+Found ItemStack CaveBiomes:frozen_igneous_stalagmite_tip. 64xtile.frozen_igneous_stalagmite_tip@0
+hide called. Params: CaveBiomes, metamorphic_lavacrust
+Regex match found! CaveBiomes:metamorphic_lavacrust matches CaveBiomes:metamorphic_lavacrust.
+Found ItemStack CaveBiomes:metamorphic_lavacrust. 64xtile.metamorphic_lavacrust@0
+hide called. Params: CaveBiomes, metamorphic_stalactite_small
+Regex match found! CaveBiomes:metamorphic_stalactite_small matches CaveBiomes:metamorphic_stalactite_small.
+Found ItemStack CaveBiomes:metamorphic_stalactite_small. 64xtile.metamorphic_stalactite_small@0
+hide called. Params: CaveBiomes, frozen_metamorphic_stalactite_small
+Regex match found! CaveBiomes:frozen_metamorphic_stalactite_small matches CaveBiomes:frozen_metamorphic_stalactite_small.
+Found ItemStack CaveBiomes:frozen_metamorphic_stalactite_small. 64xtile.frozen_metamorphic_stalactite_small@0
+hide called. Params: CaveBiomes, metamorphic_stalactite_base
+Regex match found! CaveBiomes:metamorphic_stalactite_base matches CaveBiomes:metamorphic_stalactite_base.
+Found ItemStack CaveBiomes:metamorphic_stalactite_base. 64xtile.metamorphic_stalactite_base@0
+hide called. Params: CaveBiomes, frozen_metamorphic_stalactite_base
+Regex match found! CaveBiomes:frozen_metamorphic_stalactite_base matches CaveBiomes:frozen_metamorphic_stalactite_base.
+Found ItemStack CaveBiomes:frozen_metamorphic_stalactite_base. 64xtile.frozen_metamorphic_stalactite_base@0
+hide called. Params: CaveBiomes, metamorphic_stalactite_tip
+Regex match found! CaveBiomes:metamorphic_stalactite_tip matches CaveBiomes:metamorphic_stalactite_tip.
+Found ItemStack CaveBiomes:metamorphic_stalactite_tip. 64xtile.metamorphic_stalactite_tip@0
+hide called. Params: CaveBiomes, frozen_metamorphic_stalactite_tip
+Regex match found! CaveBiomes:frozen_metamorphic_stalactite_tip matches CaveBiomes:frozen_metamorphic_stalactite_tip.
+Found ItemStack CaveBiomes:frozen_metamorphic_stalactite_tip. 64xtile.frozen_metamorphic_stalactite_tip@0
+hide called. Params: CaveBiomes, metamorphic_column
+Regex match found! CaveBiomes:metamorphic_column matches CaveBiomes:metamorphic_column.
+Found ItemStack CaveBiomes:metamorphic_column. 64xtile.metamorphic_column@0
+hide called. Params: CaveBiomes, frozen_metamorphic_column
+Regex match found! CaveBiomes:frozen_metamorphic_column matches CaveBiomes:frozen_metamorphic_column.
+Found ItemStack CaveBiomes:frozen_metamorphic_column. 64xtile.frozen_metamorphic_column@0
+hide called. Params: CaveBiomes, metamorphic_stalagmite_small
+Regex match found! CaveBiomes:metamorphic_stalagmite_small matches CaveBiomes:metamorphic_stalagmite_small.
+Found ItemStack CaveBiomes:metamorphic_stalagmite_small. 64xtile.metamorphic_stalagmite_small@0
+hide called. Params: CaveBiomes, frozen_metamorphic_stalagmite_small
+Regex match found! CaveBiomes:frozen_metamorphic_stalagmite_small matches CaveBiomes:frozen_metamorphic_stalagmite_small.
+Found ItemStack CaveBiomes:frozen_metamorphic_stalagmite_small. 64xtile.frozen_metamorphic_stalagmite_small@0
+hide called. Params: CaveBiomes, metamorphic_stalagmite_base
+Regex match found! CaveBiomes:metamorphic_stalagmite_base matches CaveBiomes:metamorphic_stalagmite_base.
+Found ItemStack CaveBiomes:metamorphic_stalagmite_base. 64xtile.metamorphic_stalagmite_base@0
+hide called. Params: CaveBiomes, frozen_metamorphic_stalagmite_base
+Regex match found! CaveBiomes:frozen_metamorphic_stalagmite_base matches CaveBiomes:frozen_metamorphic_stalagmite_base.
+Found ItemStack CaveBiomes:frozen_metamorphic_stalagmite_base. 64xtile.frozen_metamorphic_stalagmite_base@0
+hide called. Params: CaveBiomes, metamorphic_stalagmite_tip
+Regex match found! CaveBiomes:metamorphic_stalagmite_tip matches CaveBiomes:metamorphic_stalagmite_tip.
+Found ItemStack CaveBiomes:metamorphic_stalagmite_tip. 64xtile.metamorphic_stalagmite_tip@0
+hide called. Params: CaveBiomes, frozen_metamorphic_stalagmite_tip
+Regex match found! CaveBiomes:frozen_metamorphic_stalagmite_tip matches CaveBiomes:frozen_metamorphic_stalagmite_tip.
+Found ItemStack CaveBiomes:frozen_metamorphic_stalagmite_tip. 64xtile.frozen_metamorphic_stalagmite_tip@0
+hide called. Params: CaveBiomes, sedimentary_lavacrust
+hide called. Params: CaveBiomes, sedimentary_stalactite_small
+Regex match found! CaveBiomes:sedimentary_stalactite_small matches CaveBiomes:sedimentary_stalactite_small.
+Found ItemStack CaveBiomes:sedimentary_stalactite_small. 64xtile.sedimentary_stalactite_small@0
+hide called. Params: CaveBiomes, frozen_sedimentary_stalactite_small
+Regex match found! CaveBiomes:frozen_sedimentary_stalactite_small matches CaveBiomes:frozen_sedimentary_stalactite_small.
+Found ItemStack CaveBiomes:frozen_sedimentary_stalactite_small. 64xtile.frozen_sedimentary_stalactite_small@0
+hide called. Params: CaveBiomes, sedimentary_stalactite_base
+Regex match found! CaveBiomes:sedimentary_stalactite_base matches CaveBiomes:sedimentary_stalactite_base.
+Found ItemStack CaveBiomes:sedimentary_stalactite_base. 64xtile.sedimentary_stalactite_base@0
+hide called. Params: CaveBiomes, frozen_sedimentary_stalactite_base
+Regex match found! CaveBiomes:frozen_sedimentary_stalactite_base matches CaveBiomes:frozen_sedimentary_stalactite_base.
+Found ItemStack CaveBiomes:frozen_sedimentary_stalactite_base. 64xtile.frozen_sedimentary_stalactite_base@0
+hide called. Params: CaveBiomes, sedimentary_stalactite_tip
+Regex match found! CaveBiomes:sedimentary_stalactite_tip matches CaveBiomes:sedimentary_stalactite_tip.
+Found ItemStack CaveBiomes:sedimentary_stalactite_tip. 64xtile.sedimentary_stalactite_tip@0
+hide called. Params: CaveBiomes, frozen_sedimentary_stalactite_tip
+Regex match found! CaveBiomes:frozen_sedimentary_stalactite_tip matches CaveBiomes:frozen_sedimentary_stalactite_tip.
+Found ItemStack CaveBiomes:frozen_sedimentary_stalactite_tip. 64xtile.frozen_sedimentary_stalactite_tip@0
+hide called. Params: CaveBiomes, sedimentary_column
+Regex match found! CaveBiomes:sedimentary_column matches CaveBiomes:sedimentary_column.
+Found ItemStack CaveBiomes:sedimentary_column. 64xtile.sedimentary_column@0
+hide called. Params: CaveBiomes, frozen_sedimentary_column
+Regex match found! CaveBiomes:frozen_sedimentary_column matches CaveBiomes:frozen_sedimentary_column.
+Found ItemStack CaveBiomes:frozen_sedimentary_column. 64xtile.frozen_sedimentary_column@0
+hide called. Params: CaveBiomes, sedimentary_stalagmite_small
+Regex match found! CaveBiomes:sedimentary_stalagmite_small matches CaveBiomes:sedimentary_stalagmite_small.
+Found ItemStack CaveBiomes:sedimentary_stalagmite_small. 64xtile.sedimentary_stalagmite_small@0
+hide called. Params: CaveBiomes, frozen_sedimentary_stalagmite_small
+Regex match found! CaveBiomes:frozen_sedimentary_stalagmite_small matches CaveBiomes:frozen_sedimentary_stalagmite_small.
+Found ItemStack CaveBiomes:frozen_sedimentary_stalagmite_small. 64xtile.frozen_sedimentary_stalagmite_small@0
+hide called. Params: CaveBiomes, sedimentary_stalagmite_base
+Regex match found! CaveBiomes:sedimentary_stalagmite_base matches CaveBiomes:sedimentary_stalagmite_base.
+Found ItemStack CaveBiomes:sedimentary_stalagmite_base. 64xtile.sedimentary_stalagmite_base@0
+hide called. Params: CaveBiomes, frozen_sedimentary_stalagmite_base
+Regex match found! CaveBiomes:frozen_sedimentary_stalagmite_base matches CaveBiomes:frozen_sedimentary_stalagmite_base.
+Found ItemStack CaveBiomes:frozen_sedimentary_stalagmite_base. 64xtile.frozen_sedimentary_stalagmite_base@0
+hide called. Params: CaveBiomes, sedimentary_stalagmite_tip
+Regex match found! CaveBiomes:sedimentary_stalagmite_tip matches CaveBiomes:sedimentary_stalagmite_tip.
+Found ItemStack CaveBiomes:sedimentary_stalagmite_tip. 64xtile.sedimentary_stalagmite_tip@0
+hide called. Params: CaveBiomes, frozen_sedimentary_stalagmite_tip
+Regex match found! CaveBiomes:frozen_sedimentary_stalagmite_tip matches CaveBiomes:frozen_sedimentary_stalagmite_tip.
+Found ItemStack CaveBiomes:frozen_sedimentary_stalagmite_tip. 64xtile.frozen_sedimentary_stalagmite_tip@0
+hide called. Params: CaveBiomes, mummy_helmet
+Regex match found! CaveBiomes:mummy_helmet matches CaveBiomes:mummy_helmet.
+Found ItemStack CaveBiomes:mummy_helmet. 1xitem.mummy_helmet@0
+hide called. Params: CaveBiomes, mummy_chestplate
+Regex match found! CaveBiomes:mummy_chestplate matches CaveBiomes:mummy_chestplate.
+Found ItemStack CaveBiomes:mummy_chestplate. 1xitem.mummy_chestplate@0
+hide called. Params: CaveBiomes, mummy_leggings
+Regex match found! CaveBiomes:mummy_leggings matches CaveBiomes:mummy_leggings.
+Found ItemStack CaveBiomes:mummy_leggings. 1xitem.mummy_leggings@0
+hide called. Params: CaveBiomes, mummy_boots
+Regex match found! CaveBiomes:mummy_boots matches CaveBiomes:mummy_boots.
+Found ItemStack CaveBiomes:mummy_boots. 1xitem.mummy_boots@0
+hide called. Params: CaveBiomes, pharoh_helmet
+Regex match found! CaveBiomes:pharoh_helmet matches CaveBiomes:pharoh_helmet.
+Found ItemStack CaveBiomes:pharoh_helmet. 1xitem.pharoh_helmet@0
+hide called. Params: CaveBiomes, pharoh_chestplate
+Regex match found! CaveBiomes:pharoh_chestplate matches CaveBiomes:pharoh_chestplate.
+Found ItemStack CaveBiomes:pharoh_chestplate. 1xitem.pharoh_chestplate@0
+hide called. Params: CaveBiomes, pharoh_leggings
+Regex match found! CaveBiomes:pharoh_leggings matches CaveBiomes:pharoh_leggings.
+Found ItemStack CaveBiomes:pharoh_leggings. 1xitem.pharoh_leggings@0
+hide called. Params: CaveBiomes, pharoh_boots
+Regex match found! CaveBiomes:pharoh_boots matches CaveBiomes:pharoh_boots.
+Found ItemStack CaveBiomes:pharoh_boots. 1xitem.pharoh_boots@0
+hide called. Params: CaveBiomes, dripping_water_stone
+Regex match found! CaveBiomes:dripping_water_stone matches CaveBiomes:dripping_water_stone.
+Found ItemStack CaveBiomes:dripping_water_stone. 64xtile.dripping_water_stone@0
+hide called. Params: CaveBiomes, raining_water_stone
+Regex match found! CaveBiomes:raining_water_stone matches CaveBiomes:raining_water_stone.
+Found ItemStack CaveBiomes:raining_water_stone. 64xtile.raining_water_stone@0
+hide called. Params: CaveBiomes, dripping_lava_stone
+Regex match found! CaveBiomes:dripping_lava_stone matches CaveBiomes:dripping_lava_stone.
+Found ItemStack CaveBiomes:dripping_lava_stone. 64xtile.dripping_lava_stone@0
+hide called. Params: CaveBiomes, raining_lava_stone
+Regex match found! CaveBiomes:raining_lava_stone matches CaveBiomes:raining_lava_stone.
+Found ItemStack CaveBiomes:raining_lava_stone. 64xtile.raining_lava_stone@0
+hide called. Params: CaveBiomes, dripping_water_igneous_stone
+Regex match found! CaveBiomes:dripping_water_igneous_stone matches CaveBiomes:dripping_water_igneous_stone.
+Found ItemStack CaveBiomes:dripping_water_igneous_stone. 64xtile.dripping_water_igneous_stone@0
+hide called. Params: CaveBiomes, raining_water_igneous_stone
+Regex match found! CaveBiomes:raining_water_igneous_stone matches CaveBiomes:raining_water_igneous_stone.
+Found ItemStack CaveBiomes:raining_water_igneous_stone. 64xtile.raining_water_igneous_stone@0
+hide called. Params: CaveBiomes, dripping_lava_igneous_stone
+Regex match found! CaveBiomes:dripping_lava_igneous_stone matches CaveBiomes:dripping_lava_igneous_stone.
+Found ItemStack CaveBiomes:dripping_lava_igneous_stone. 64xtile.dripping_lava_igneous_stone@0
+hide called. Params: CaveBiomes, raining_lava_igneous_stone
+Regex match found! CaveBiomes:raining_lava_igneous_stone matches CaveBiomes:raining_lava_igneous_stone.
+Found ItemStack CaveBiomes:raining_lava_igneous_stone. 64xtile.raining_lava_igneous_stone@0
+hide called. Params: CaveBiomes, dripping_water_metamorphic_stone
+Regex match found! CaveBiomes:dripping_water_metamorphic_stone matches CaveBiomes:dripping_water_metamorphic_stone.
+Found ItemStack CaveBiomes:dripping_water_metamorphic_stone. 64xtile.dripping_water_metamorphic_stone@0
+hide called. Params: CaveBiomes, raining_water_metamorphic_stone
+Regex match found! CaveBiomes:raining_water_metamorphic_stone matches CaveBiomes:raining_water_metamorphic_stone.
+Found ItemStack CaveBiomes:raining_water_metamorphic_stone. 64xtile.raining_water_metamorphic_stone@0
+hide called. Params: CaveBiomes, dripping_lava_metamorphic_stone
+Regex match found! CaveBiomes:dripping_lava_metamorphic_stone matches CaveBiomes:dripping_lava_metamorphic_stone.
+Found ItemStack CaveBiomes:dripping_lava_metamorphic_stone. 64xtile.dripping_lava_metamorphic_stone@0
+hide called. Params: CaveBiomes, raining_lava_metamorphic_stone
+Regex match found! CaveBiomes:raining_lava_metamorphic_stone matches CaveBiomes:raining_lava_metamorphic_stone.
+Found ItemStack CaveBiomes:raining_lava_metamorphic_stone. 64xtile.raining_lava_metamorphic_stone@0
+hide called. Params: CaveBiomes, dripping_water_sedimentary_stone
+Regex match found! CaveBiomes:dripping_water_sedimentary_stone matches CaveBiomes:dripping_water_sedimentary_stone.
+Found ItemStack CaveBiomes:dripping_water_sedimentary_stone. 64xtile.dripping_water_sedimentary_stone@0
+hide called. Params: CaveBiomes, raining_water_sedimentary_stone
+Regex match found! CaveBiomes:raining_water_sedimentary_stone matches CaveBiomes:raining_water_sedimentary_stone.
+Found ItemStack CaveBiomes:raining_water_sedimentary_stone. 64xtile.raining_water_sedimentary_stone@0
+Loading: GM_Decocraft.js
+override called. Params: props, props, 0
+Regex match found! props:props matches props:props.
+Found ItemStack props:props. 64xitem.props.stuffed_creeper@0
+Loading: GM_ExtraCells.js
+override_with_nbt called. Params: extracells, pattern.fluid
+Regex match found! extracells:pattern.fluid matches extracells:pattern.fluid.
+Found ItemStack extracells:pattern.fluid. 1xitem.extracells.pattern.fluid@0
+Loading: GM_Gendustry.js
+override called. Params: gendustry, GeneSample, 0
+Regex match found! gendustry:GeneSample matches gendustry:GeneSample.
+Found ItemStack gendustry:GeneSample. 1xitem.gendustry.GeneSample@0
+Loading: GM_Genetics.js
+override_with_nbt called. Params: Genetics, serumArray
+Regex match found! Genetics:serumArray matches Genetics:serumArray.
+Found ItemStack Genetics:serumArray. 1xitem.serumArray@0
+override_with_nbt called. Params: Genetics, serum
+Regex match found! Genetics:serum matches Genetics:serum.
+Found ItemStack Genetics:serum. 1xitem.serum@0
+Loading: GM_IC2.js
+override_with_nbt called. Params: IC2, itemFluidCell
+Regex match found! IC2:itemFluidCell matches IC2:itemFluidCell.
+Found ItemStack IC2:itemFluidCell. 64xic2.itemFluidCell@0
+hide called. Params: IC2, blockCable
+Regex match found! IC2:blockCable matches IC2:blockCable.
+Found ItemStack IC2:blockCable. 64xic2.blockCable@0
+hide called. Params: IC2, blockMiningTip
+Regex match found! IC2:blockMiningTip matches IC2:blockMiningTip.
+Found ItemStack IC2:blockMiningTip. 64xic2.blockMiningTip@0
+Loading: GM_OpenBlocks.js
+override_with_nbt called. Params: OpenBlocks, tank
+Regex match found! OpenBlocks:tank matches OpenBlocks:tank.
+Found ItemStack OpenBlocks:tank. 64xtile.openblocks.tank@0
+Loading: GM_ProjectZulu¦Core.js
+hide called. Params: ProjectZulu|Core, PZCustomPotion
+Regex match found! ProjectZulu|Core:PZCustomPotion matches ProjectZulu|Core:PZCustomPotion.
+Found ItemStack ProjectZulu|Core:PZCustomPotion. 3xitem.projectzulublock:pzcustompotion@0
+hide called. Params: ProjectZulu|Core, PZVanillaPotion
+Regex match found! ProjectZulu|Core:PZVanillaPotion matches ProjectZulu|Core:PZVanillaPotion.
+Found ItemStack ProjectZulu|Core:PZVanillaPotion. 3xitem.projectzulublock:pzvanillapotion@0
+Loading: GM_UBCOreRegistrar.js
+hide called. Params: ubcores, igneous_factorization:darkIronOre
+Regex match found! ubcores:igneous_factorization:darkIronOre matches ubcores:igneous_factorization:darkIronOre.
+ubcores:igneous_factorization:darkIronOre has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: igneous_factorization:darkIronOre. If this is not correct please report it as a bug!
+Found ItemStack ubcores:igneous_factorization:darkIronOre. 64xtile.null@0
+hide called. Params: ubcores, igneous_blockCustomOre
+Regex match found! ubcores:igneous_blockCustomOre matches ubcores:igneous_blockCustomOre.
+Found ItemStack ubcores:igneous_blockCustomOre. 64xtile.null@0
+hide called. Params: ubcores, igneous_blockCustomOre.1
+Regex match found! ubcores:igneous_blockCustomOre.1 matches ubcores:igneous_blockCustomOre.1.
+Found ItemStack ubcores:igneous_blockCustomOre.1. 64xtile.null@0
+hide called. Params: ubcores, igneous_blockCustomOre.2
+Regex match found! ubcores:igneous_blockCustomOre.2 matches ubcores:igneous_blockCustomOre.2.
+Found ItemStack ubcores:igneous_blockCustomOre.2. 64xtile.null@0
+hide called. Params: ubcores, igneous_blockCustomOre.3
+Regex match found! ubcores:igneous_blockCustomOre.3 matches ubcores:igneous_blockCustomOre.3.
+Found ItemStack ubcores:igneous_blockCustomOre.3. 64xtile.null@0
+hide called. Params: ubcores, igneous_blockCustomOre.4
+Regex match found! ubcores:igneous_blockCustomOre.4 matches ubcores:igneous_blockCustomOre.4.
+Found ItemStack ubcores:igneous_blockCustomOre.4. 64xtile.null@0
+hide called. Params: ubcores, igneous_blockCustomOre.5
+Regex match found! ubcores:igneous_blockCustomOre.5 matches ubcores:igneous_blockCustomOre.5.
+Found ItemStack ubcores:igneous_blockCustomOre.5. 64xtile.null@0
+hide called. Params: ubcores, igneous_blockCustomOre.6
+Regex match found! ubcores:igneous_blockCustomOre.6 matches ubcores:igneous_blockCustomOre.6.
+Found ItemStack ubcores:igneous_blockCustomOre.6. 64xtile.null@0
+hide called. Params: ubcores, igneous_blockCustomOre.7
+Regex match found! ubcores:igneous_blockCustomOre.7 matches ubcores:igneous_blockCustomOre.7.
+Found ItemStack ubcores:igneous_blockCustomOre.7. 64xtile.null@0
+hide called. Params: ubcores, igneous_gemOre.2
+Regex match found! ubcores:igneous_gemOre.2 matches ubcores:igneous_gemOre.2.
+Found ItemStack ubcores:igneous_gemOre.2. 64xtile.null@0
+hide called. Params: ubcores, igneous_gemOre.4
+Regex match found! ubcores:igneous_gemOre.4 matches ubcores:igneous_gemOre.4.
+Found ItemStack ubcores:igneous_gemOre.4. 64xtile.null@0
+hide called. Params: ubcores, igneous_gemOre.6
+Regex match found! ubcores:igneous_gemOre.6 matches ubcores:igneous_gemOre.6.
+Found ItemStack ubcores:igneous_gemOre.6. 64xtile.null@0
+hide called. Params: ubcores, igneous_gemOre.8
+Regex match found! ubcores:igneous_gemOre.8 matches ubcores:igneous_gemOre.8.
+Found ItemStack ubcores:igneous_gemOre.8. 64xtile.null@0
+hide called. Params: ubcores, igneous_gemOre.10
+Regex match found! ubcores:igneous_gemOre.10 matches ubcores:igneous_gemOre.10.
+Found ItemStack ubcores:igneous_gemOre.10. 64xtile.null@0
+hide called. Params: ubcores, igneous_gemOre.12
+Regex match found! ubcores:igneous_gemOre.12 matches ubcores:igneous_gemOre.12.
+Found ItemStack ubcores:igneous_gemOre.12. 64xtile.null@0
+hide called. Params: ubcores, igneous_gemOre.14
+Regex match found! ubcores:igneous_gemOre.14 matches ubcores:igneous_gemOre.14.
+Found ItemStack ubcores:igneous_gemOre.14. 64xtile.null@0
+hide called. Params: ubcores, igneous_thermalfoundation.ore
+Regex match found! ubcores:igneous_thermalfoundation.ore matches ubcores:igneous_thermalfoundation.ore.
+Found ItemStack ubcores:igneous_thermalfoundation.ore. 64xtile.null@0
+hide called. Params: ubcores, igneous_thermalfoundation.ore.1
+Regex match found! ubcores:igneous_thermalfoundation.ore.1 matches ubcores:igneous_thermalfoundation.ore.1.
+Found ItemStack ubcores:igneous_thermalfoundation.ore.1. 64xtile.null@0
+hide called. Params: ubcores, igneous_thermalfoundation.ore.2
+Regex match found! ubcores:igneous_thermalfoundation.ore.2 matches ubcores:igneous_thermalfoundation.ore.2.
+Found ItemStack ubcores:igneous_thermalfoundation.ore.2. 64xtile.null@0
+hide called. Params: ubcores, igneous_thermalfoundation.ore.3
+Regex match found! ubcores:igneous_thermalfoundation.ore.3 matches ubcores:igneous_thermalfoundation.ore.3.
+Found ItemStack ubcores:igneous_thermalfoundation.ore.3. 64xtile.null@0
+hide called. Params: ubcores, igneous_thermalfoundation.ore.4
+Regex match found! ubcores:igneous_thermalfoundation.ore.4 matches ubcores:igneous_thermalfoundation.ore.4.
+Found ItemStack ubcores:igneous_thermalfoundation.ore.4. 64xtile.null@0
+hide called. Params: ubcores, igneous_thermalfoundation.ore.5
+Regex match found! ubcores:igneous_thermalfoundation.ore.5 matches ubcores:igneous_thermalfoundation.ore.5.
+Found ItemStack ubcores:igneous_thermalfoundation.ore.5. 64xtile.null@0
+hide called. Params: ubcores, igneous_railcraft.ore
+Regex match found! ubcores:igneous_railcraft.ore matches ubcores:igneous_railcraft.ore.
+Found ItemStack ubcores:igneous_railcraft.ore. 64xtile.null@0
+hide called. Params: ubcores, igneous_brOre
+Regex match found! ubcores:igneous_brOre matches ubcores:igneous_brOre.
+Found ItemStack ubcores:igneous_brOre. 64xtile.null@0
+hide called. Params: ubcores, igneous_OreBlock
+Regex match found! ubcores:igneous_OreBlock matches ubcores:igneous_OreBlock.
+Found ItemStack ubcores:igneous_OreBlock. 64xtile.null@0
+hide called. Params: ubcores, igneous_appliedenergistics2.OreQuartz
+Regex match found! ubcores:igneous_appliedenergistics2.OreQuartz matches ubcores:igneous_appliedenergistics2.OreQuartz.
+Found ItemStack ubcores:igneous_appliedenergistics2.OreQuartz. 64xtile.null@0
+hide called. Params: ubcores, igneous_appliedenergistics2.OreQuartzCharged
+Regex match found! ubcores:igneous_appliedenergistics2.OreQuartzCharged matches ubcores:igneous_appliedenergistics2.OreQuartzCharged.
+Found ItemStack ubcores:igneous_appliedenergistics2.OreQuartzCharged. 64xtile.null@0
+hide called. Params: ubcores, igneous_for.resources
+Regex match found! ubcores:igneous_for.resources matches ubcores:igneous_for.resources.
+Found ItemStack ubcores:igneous_for.resources. 64xtile.null@0
+hide called. Params: ubcores, igneous_gcBlockCore.8
+Regex match found! ubcores:igneous_gcBlockCore.8 matches ubcores:igneous_gcBlockCore.8.
+Found ItemStack ubcores:igneous_gcBlockCore.8. 64xtile.null@0
+hide called. Params: ubcores, igneous_jaffas.jaffarrolOre.1
+hide called. Params: ubcores, igneous_jaffas.limsewOre
+hide called. Params: ubcores, igneous_OreShadow
+Regex match found! ubcores:igneous_OreShadow matches ubcores:igneous_OreShadow.
+Found ItemStack ubcores:igneous_OreShadow. 64xtile.null@0
+hide called. Params: ubcores, igneous_dimensionalShardBlock
+Regex match found! ubcores:igneous_dimensionalShardBlock matches ubcores:igneous_dimensionalShardBlock.
+Found ItemStack ubcores:igneous_dimensionalShardBlock. 64xtile.null@0
+hide called. Params: ubcores, igneous_OreEln.5
+Regex match found! ubcores:igneous_OreEln.5 matches ubcores:igneous_OreEln.5.
+Found ItemStack ubcores:igneous_OreEln.5. 64xtile.null@0
+hide called. Params: ubcores, igneous_draconicevolution:draconiumOre
+Regex match found! ubcores:igneous_draconicevolution:draconiumOre matches ubcores:igneous_draconicevolution:draconiumOre.
+ubcores:igneous_draconicevolution:draconiumOre has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: igneous_draconicevolution:draconiumOre. If this is not correct please report it as a bug!
+Found ItemStack ubcores:igneous_draconicevolution:draconiumOre. 64xtile.null@0
+hide called. Params: ubcores, igneous_gcewing_sg:naquadahOre
+Regex match found! ubcores:igneous_gcewing_sg:naquadahOre matches ubcores:igneous_gcewing_sg:naquadahOre.
+ubcores:igneous_gcewing_sg:naquadahOre has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: igneous_gcewing_sg:naquadahOre. If this is not correct please report it as a bug!
+Found ItemStack ubcores:igneous_gcewing_sg:naquadahOre. 64xtile.null@0
+hide called. Params: ubcores, igneous_projectred.exploration.ore.6
+Regex match found! ubcores:igneous_projectred.exploration.ore.6 matches ubcores:igneous_projectred.exploration.ore.6.
+Found ItemStack ubcores:igneous_projectred.exploration.ore.6. 64xtile.null@0
+hide called. Params: ubcores, igneous_arsmagica2:ores
+Regex match found! ubcores:igneous_arsmagica2:ores matches ubcores:igneous_arsmagica2:ores.
+ubcores:igneous_arsmagica2:ores has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: igneous_arsmagica2:ores. If this is not correct please report it as a bug!
+Found ItemStack ubcores:igneous_arsmagica2:ores. 64xtile.null@0
+hide called. Params: ubcores, igneous_arsmagica2:ores.1
+Regex match found! ubcores:igneous_arsmagica2:ores.1 matches ubcores:igneous_arsmagica2:ores.1.
+ubcores:igneous_arsmagica2:ores.1 has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: igneous_arsmagica2:ores.1. If this is not correct please report it as a bug!
+Found ItemStack ubcores:igneous_arsmagica2:ores.1. 64xtile.null@0
+hide called. Params: ubcores, igneous_arsmagica2:ores.2
+Regex match found! ubcores:igneous_arsmagica2:ores.2 matches ubcores:igneous_arsmagica2:ores.2.
+ubcores:igneous_arsmagica2:ores.2 has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: igneous_arsmagica2:ores.2. If this is not correct please report it as a bug!
+Found ItemStack ubcores:igneous_arsmagica2:ores.2. 64xtile.null@0
+hide called. Params: ubcores, igneous_arsmagica2:ores.3
+Regex match found! ubcores:igneous_arsmagica2:ores.3 matches ubcores:igneous_arsmagica2:ores.3.
+ubcores:igneous_arsmagica2:ores.3 has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: igneous_arsmagica2:ores.3. If this is not correct please report it as a bug!
+Found ItemStack ubcores:igneous_arsmagica2:ores.3. 64xtile.null@0
+hide called. Params: ubcores, igneous_amberOre
+Regex match found! ubcores:igneous_amberOre matches ubcores:igneous_amberOre.
+Found ItemStack ubcores:igneous_amberOre. 64xtile.null@0
+hide called. Params: ubcores, igneous_fossil
+Regex match found! ubcores:igneous_fossil matches ubcores:igneous_fossil.
+Found ItemStack ubcores:igneous_fossil. 64xtile.null@0
+hide called. Params: ubcores, igneous_dilithium_ore
+Regex match found! ubcores:igneous_dilithium_ore matches ubcores:igneous_dilithium_ore.
+Found ItemStack ubcores:igneous_dilithium_ore. 64xtile.null@0
+hide called. Params: ubcores, igneous_tritanium_ore
+Regex match found! ubcores:igneous_tritanium_ore matches ubcores:igneous_tritanium_ore.
+Found ItemStack ubcores:igneous_tritanium_ore. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_factorization:darkIronOre
+Regex match found! ubcores:metamorphic_factorization:darkIronOre matches ubcores:metamorphic_factorization:darkIronOre.
+ubcores:metamorphic_factorization:darkIronOre has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: metamorphic_factorization:darkIronOre. If this is not correct please report it as a bug!
+Found ItemStack ubcores:metamorphic_factorization:darkIronOre. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_blockCustomOre
+Regex match found! ubcores:metamorphic_blockCustomOre matches ubcores:metamorphic_blockCustomOre.
+Found ItemStack ubcores:metamorphic_blockCustomOre. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_blockCustomOre.1
+Regex match found! ubcores:metamorphic_blockCustomOre.1 matches ubcores:metamorphic_blockCustomOre.1.
+Found ItemStack ubcores:metamorphic_blockCustomOre.1. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_blockCustomOre.2
+Regex match found! ubcores:metamorphic_blockCustomOre.2 matches ubcores:metamorphic_blockCustomOre.2.
+Found ItemStack ubcores:metamorphic_blockCustomOre.2. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_blockCustomOre.3
+Regex match found! ubcores:metamorphic_blockCustomOre.3 matches ubcores:metamorphic_blockCustomOre.3.
+Found ItemStack ubcores:metamorphic_blockCustomOre.3. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_blockCustomOre.4
+Regex match found! ubcores:metamorphic_blockCustomOre.4 matches ubcores:metamorphic_blockCustomOre.4.
+Found ItemStack ubcores:metamorphic_blockCustomOre.4. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_blockCustomOre.5
+Regex match found! ubcores:metamorphic_blockCustomOre.5 matches ubcores:metamorphic_blockCustomOre.5.
+Found ItemStack ubcores:metamorphic_blockCustomOre.5. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_blockCustomOre.6
+Regex match found! ubcores:metamorphic_blockCustomOre.6 matches ubcores:metamorphic_blockCustomOre.6.
+Found ItemStack ubcores:metamorphic_blockCustomOre.6. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_blockCustomOre.7
+Regex match found! ubcores:metamorphic_blockCustomOre.7 matches ubcores:metamorphic_blockCustomOre.7.
+Found ItemStack ubcores:metamorphic_blockCustomOre.7. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_gemOre.2
+Regex match found! ubcores:metamorphic_gemOre.2 matches ubcores:metamorphic_gemOre.2.
+Found ItemStack ubcores:metamorphic_gemOre.2. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_gemOre.4
+Regex match found! ubcores:metamorphic_gemOre.4 matches ubcores:metamorphic_gemOre.4.
+Found ItemStack ubcores:metamorphic_gemOre.4. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_gemOre.6
+Regex match found! ubcores:metamorphic_gemOre.6 matches ubcores:metamorphic_gemOre.6.
+Found ItemStack ubcores:metamorphic_gemOre.6. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_gemOre.8
+Regex match found! ubcores:metamorphic_gemOre.8 matches ubcores:metamorphic_gemOre.8.
+Found ItemStack ubcores:metamorphic_gemOre.8. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_gemOre.10
+Regex match found! ubcores:metamorphic_gemOre.10 matches ubcores:metamorphic_gemOre.10.
+Found ItemStack ubcores:metamorphic_gemOre.10. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_gemOre.12
+Regex match found! ubcores:metamorphic_gemOre.12 matches ubcores:metamorphic_gemOre.12.
+Found ItemStack ubcores:metamorphic_gemOre.12. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_gemOre.14
+Regex match found! ubcores:metamorphic_gemOre.14 matches ubcores:metamorphic_gemOre.14.
+Found ItemStack ubcores:metamorphic_gemOre.14. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_thermalfoundation.ore
+Regex match found! ubcores:metamorphic_thermalfoundation.ore matches ubcores:metamorphic_thermalfoundation.ore.
+Found ItemStack ubcores:metamorphic_thermalfoundation.ore. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_thermalfoundation.ore.1
+Regex match found! ubcores:metamorphic_thermalfoundation.ore.1 matches ubcores:metamorphic_thermalfoundation.ore.1.
+Found ItemStack ubcores:metamorphic_thermalfoundation.ore.1. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_thermalfoundation.ore.2
+Regex match found! ubcores:metamorphic_thermalfoundation.ore.2 matches ubcores:metamorphic_thermalfoundation.ore.2.
+Found ItemStack ubcores:metamorphic_thermalfoundation.ore.2. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_thermalfoundation.ore.3
+Regex match found! ubcores:metamorphic_thermalfoundation.ore.3 matches ubcores:metamorphic_thermalfoundation.ore.3.
+Found ItemStack ubcores:metamorphic_thermalfoundation.ore.3. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_thermalfoundation.ore.4
+Regex match found! ubcores:metamorphic_thermalfoundation.ore.4 matches ubcores:metamorphic_thermalfoundation.ore.4.
+Found ItemStack ubcores:metamorphic_thermalfoundation.ore.4. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_thermalfoundation.ore.5
+Regex match found! ubcores:metamorphic_thermalfoundation.ore.5 matches ubcores:metamorphic_thermalfoundation.ore.5.
+Found ItemStack ubcores:metamorphic_thermalfoundation.ore.5. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_railcraft.ore
+Regex match found! ubcores:metamorphic_railcraft.ore matches ubcores:metamorphic_railcraft.ore.
+Found ItemStack ubcores:metamorphic_railcraft.ore. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_brOre
+Regex match found! ubcores:metamorphic_brOre matches ubcores:metamorphic_brOre.
+Found ItemStack ubcores:metamorphic_brOre. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_OreBlock
+Regex match found! ubcores:metamorphic_OreBlock matches ubcores:metamorphic_OreBlock.
+Found ItemStack ubcores:metamorphic_OreBlock. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_appliedenergistics2.OreQuartz
+Regex match found! ubcores:metamorphic_appliedenergistics2.OreQuartz matches ubcores:metamorphic_appliedenergistics2.OreQuartz.
+Found ItemStack ubcores:metamorphic_appliedenergistics2.OreQuartz. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_appliedenergistics2.OreQuartzCharged
+Regex match found! ubcores:metamorphic_appliedenergistics2.OreQuartzCharged matches ubcores:metamorphic_appliedenergistics2.OreQuartzCharged.
+Found ItemStack ubcores:metamorphic_appliedenergistics2.OreQuartzCharged. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_for.resources
+Regex match found! ubcores:metamorphic_for.resources matches ubcores:metamorphic_for.resources.
+Found ItemStack ubcores:metamorphic_for.resources. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_gcBlockCore.8
+Regex match found! ubcores:metamorphic_gcBlockCore.8 matches ubcores:metamorphic_gcBlockCore.8.
+Found ItemStack ubcores:metamorphic_gcBlockCore.8. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_jaffas.jaffarrolOre.1
+hide called. Params: ubcores, metamorphic_jaffas.limsewOre
+hide called. Params: ubcores, metamorphic_OreShadow
+Regex match found! ubcores:metamorphic_OreShadow matches ubcores:metamorphic_OreShadow.
+Found ItemStack ubcores:metamorphic_OreShadow. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_dimensionalShardBlock
+Regex match found! ubcores:metamorphic_dimensionalShardBlock matches ubcores:metamorphic_dimensionalShardBlock.
+Found ItemStack ubcores:metamorphic_dimensionalShardBlock. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_OreEln.5
+Regex match found! ubcores:metamorphic_OreEln.5 matches ubcores:metamorphic_OreEln.5.
+Found ItemStack ubcores:metamorphic_OreEln.5. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_draconicevolution:draconiumOre
+Regex match found! ubcores:metamorphic_draconicevolution:draconiumOre matches ubcores:metamorphic_draconicevolution:draconiumOre.
+ubcores:metamorphic_draconicevolution:draconiumOre has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: metamorphic_draconicevolution:draconiumOre. If this is not correct please report it as a bug!
+Found ItemStack ubcores:metamorphic_draconicevolution:draconiumOre. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_gcewing_sg:naquadahOre
+Regex match found! ubcores:metamorphic_gcewing_sg:naquadahOre matches ubcores:metamorphic_gcewing_sg:naquadahOre.
+ubcores:metamorphic_gcewing_sg:naquadahOre has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: metamorphic_gcewing_sg:naquadahOre. If this is not correct please report it as a bug!
+Found ItemStack ubcores:metamorphic_gcewing_sg:naquadahOre. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_projectred.exploration.ore.6
+Regex match found! ubcores:metamorphic_projectred.exploration.ore.6 matches ubcores:metamorphic_projectred.exploration.ore.6.
+Found ItemStack ubcores:metamorphic_projectred.exploration.ore.6. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_arsmagica2:ores
+Regex match found! ubcores:metamorphic_arsmagica2:ores matches ubcores:metamorphic_arsmagica2:ores.
+ubcores:metamorphic_arsmagica2:ores has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: metamorphic_arsmagica2:ores. If this is not correct please report it as a bug!
+Found ItemStack ubcores:metamorphic_arsmagica2:ores. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_arsmagica2:ores.1
+Regex match found! ubcores:metamorphic_arsmagica2:ores.1 matches ubcores:metamorphic_arsmagica2:ores.1.
+ubcores:metamorphic_arsmagica2:ores.1 has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: metamorphic_arsmagica2:ores.1. If this is not correct please report it as a bug!
+Found ItemStack ubcores:metamorphic_arsmagica2:ores.1. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_arsmagica2:ores.2
+Regex match found! ubcores:metamorphic_arsmagica2:ores.2 matches ubcores:metamorphic_arsmagica2:ores.2.
+ubcores:metamorphic_arsmagica2:ores.2 has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: metamorphic_arsmagica2:ores.2. If this is not correct please report it as a bug!
+Found ItemStack ubcores:metamorphic_arsmagica2:ores.2. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_arsmagica2:ores.3
+Regex match found! ubcores:metamorphic_arsmagica2:ores.3 matches ubcores:metamorphic_arsmagica2:ores.3.
+ubcores:metamorphic_arsmagica2:ores.3 has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: metamorphic_arsmagica2:ores.3. If this is not correct please report it as a bug!
+Found ItemStack ubcores:metamorphic_arsmagica2:ores.3. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_amberOre
+Regex match found! ubcores:metamorphic_amberOre matches ubcores:metamorphic_amberOre.
+Found ItemStack ubcores:metamorphic_amberOre. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_fossil
+Regex match found! ubcores:metamorphic_fossil matches ubcores:metamorphic_fossil.
+Found ItemStack ubcores:metamorphic_fossil. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_dilithium_ore
+Regex match found! ubcores:metamorphic_dilithium_ore matches ubcores:metamorphic_dilithium_ore.
+Found ItemStack ubcores:metamorphic_dilithium_ore. 64xtile.null@0
+hide called. Params: ubcores, metamorphic_tritanium_ore
+Regex match found! ubcores:metamorphic_tritanium_ore matches ubcores:metamorphic_tritanium_ore.
+Found ItemStack ubcores:metamorphic_tritanium_ore. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_factorization:darkIronOre
+Regex match found! ubcores:sedimentary_factorization:darkIronOre matches ubcores:sedimentary_factorization:darkIronOre.
+ubcores:sedimentary_factorization:darkIronOre has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: sedimentary_factorization:darkIronOre. If this is not correct please report it as a bug!
+Found ItemStack ubcores:sedimentary_factorization:darkIronOre. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_blockCustomOre
+Regex match found! ubcores:sedimentary_blockCustomOre matches ubcores:sedimentary_blockCustomOre.
+Found ItemStack ubcores:sedimentary_blockCustomOre. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_blockCustomOre.1
+Regex match found! ubcores:sedimentary_blockCustomOre.1 matches ubcores:sedimentary_blockCustomOre.1.
+Found ItemStack ubcores:sedimentary_blockCustomOre.1. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_blockCustomOre.2
+Regex match found! ubcores:sedimentary_blockCustomOre.2 matches ubcores:sedimentary_blockCustomOre.2.
+Found ItemStack ubcores:sedimentary_blockCustomOre.2. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_blockCustomOre.3
+Regex match found! ubcores:sedimentary_blockCustomOre.3 matches ubcores:sedimentary_blockCustomOre.3.
+Found ItemStack ubcores:sedimentary_blockCustomOre.3. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_blockCustomOre.4
+Regex match found! ubcores:sedimentary_blockCustomOre.4 matches ubcores:sedimentary_blockCustomOre.4.
+Found ItemStack ubcores:sedimentary_blockCustomOre.4. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_blockCustomOre.5
+Regex match found! ubcores:sedimentary_blockCustomOre.5 matches ubcores:sedimentary_blockCustomOre.5.
+Found ItemStack ubcores:sedimentary_blockCustomOre.5. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_blockCustomOre.6
+Regex match found! ubcores:sedimentary_blockCustomOre.6 matches ubcores:sedimentary_blockCustomOre.6.
+Found ItemStack ubcores:sedimentary_blockCustomOre.6. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_blockCustomOre.7
+Regex match found! ubcores:sedimentary_blockCustomOre.7 matches ubcores:sedimentary_blockCustomOre.7.
+Found ItemStack ubcores:sedimentary_blockCustomOre.7. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_gemOre.2
+Regex match found! ubcores:sedimentary_gemOre.2 matches ubcores:sedimentary_gemOre.2.
+Found ItemStack ubcores:sedimentary_gemOre.2. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_gemOre.4
+Regex match found! ubcores:sedimentary_gemOre.4 matches ubcores:sedimentary_gemOre.4.
+Found ItemStack ubcores:sedimentary_gemOre.4. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_gemOre.6
+Regex match found! ubcores:sedimentary_gemOre.6 matches ubcores:sedimentary_gemOre.6.
+Found ItemStack ubcores:sedimentary_gemOre.6. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_gemOre.8
+Regex match found! ubcores:sedimentary_gemOre.8 matches ubcores:sedimentary_gemOre.8.
+Found ItemStack ubcores:sedimentary_gemOre.8. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_gemOre.10
+Regex match found! ubcores:sedimentary_gemOre.10 matches ubcores:sedimentary_gemOre.10.
+Found ItemStack ubcores:sedimentary_gemOre.10. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_gemOre.12
+Regex match found! ubcores:sedimentary_gemOre.12 matches ubcores:sedimentary_gemOre.12.
+Found ItemStack ubcores:sedimentary_gemOre.12. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_gemOre.14
+Regex match found! ubcores:sedimentary_gemOre.14 matches ubcores:sedimentary_gemOre.14.
+Found ItemStack ubcores:sedimentary_gemOre.14. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_thermalfoundation.ore
+Regex match found! ubcores:sedimentary_thermalfoundation.ore matches ubcores:sedimentary_thermalfoundation.ore.
+Found ItemStack ubcores:sedimentary_thermalfoundation.ore. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_thermalfoundation.ore.1
+Regex match found! ubcores:sedimentary_thermalfoundation.ore.1 matches ubcores:sedimentary_thermalfoundation.ore.1.
+Found ItemStack ubcores:sedimentary_thermalfoundation.ore.1. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_thermalfoundation.ore.2
+Regex match found! ubcores:sedimentary_thermalfoundation.ore.2 matches ubcores:sedimentary_thermalfoundation.ore.2.
+Found ItemStack ubcores:sedimentary_thermalfoundation.ore.2. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_thermalfoundation.ore.3
+Regex match found! ubcores:sedimentary_thermalfoundation.ore.3 matches ubcores:sedimentary_thermalfoundation.ore.3.
+Found ItemStack ubcores:sedimentary_thermalfoundation.ore.3. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_thermalfoundation.ore.4
+Regex match found! ubcores:sedimentary_thermalfoundation.ore.4 matches ubcores:sedimentary_thermalfoundation.ore.4.
+Found ItemStack ubcores:sedimentary_thermalfoundation.ore.4. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_thermalfoundation.ore.5
+Regex match found! ubcores:sedimentary_thermalfoundation.ore.5 matches ubcores:sedimentary_thermalfoundation.ore.5.
+Found ItemStack ubcores:sedimentary_thermalfoundation.ore.5. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_railcraft.ore
+Regex match found! ubcores:sedimentary_railcraft.ore matches ubcores:sedimentary_railcraft.ore.
+Found ItemStack ubcores:sedimentary_railcraft.ore. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_brOre
+Regex match found! ubcores:sedimentary_brOre matches ubcores:sedimentary_brOre.
+Found ItemStack ubcores:sedimentary_brOre. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_OreBlock
+Regex match found! ubcores:sedimentary_OreBlock matches ubcores:sedimentary_OreBlock.
+Found ItemStack ubcores:sedimentary_OreBlock. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_appliedenergistics2.OreQuartz
+Regex match found! ubcores:sedimentary_appliedenergistics2.OreQuartz matches ubcores:sedimentary_appliedenergistics2.OreQuartz.
+Found ItemStack ubcores:sedimentary_appliedenergistics2.OreQuartz. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_appliedenergistics2.OreQuartzCharged
+Regex match found! ubcores:sedimentary_appliedenergistics2.OreQuartzCharged matches ubcores:sedimentary_appliedenergistics2.OreQuartzCharged.
+Found ItemStack ubcores:sedimentary_appliedenergistics2.OreQuartzCharged. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_for.resources
+Regex match found! ubcores:sedimentary_for.resources matches ubcores:sedimentary_for.resources.
+Found ItemStack ubcores:sedimentary_for.resources. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_gcBlockCore.8
+Regex match found! ubcores:sedimentary_gcBlockCore.8 matches ubcores:sedimentary_gcBlockCore.8.
+Found ItemStack ubcores:sedimentary_gcBlockCore.8. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_jaffas.jaffarrolOre.1
+hide called. Params: ubcores, sedimentary_jaffas.limsewOre
+hide called. Params: ubcores, sedimentary_OreShadow
+Regex match found! ubcores:sedimentary_OreShadow matches ubcores:sedimentary_OreShadow.
+Found ItemStack ubcores:sedimentary_OreShadow. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_dimensionalShardBlock
+Regex match found! ubcores:sedimentary_dimensionalShardBlock matches ubcores:sedimentary_dimensionalShardBlock.
+Found ItemStack ubcores:sedimentary_dimensionalShardBlock. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_OreEln.5
+Regex match found! ubcores:sedimentary_OreEln.5 matches ubcores:sedimentary_OreEln.5.
+Found ItemStack ubcores:sedimentary_OreEln.5. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_draconicevolution:draconiumOre
+Regex match found! ubcores:sedimentary_draconicevolution:draconiumOre matches ubcores:sedimentary_draconicevolution:draconiumOre.
+ubcores:sedimentary_draconicevolution:draconiumOre has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: sedimentary_draconicevolution:draconiumOre. If this is not correct please report it as a bug!
+Found ItemStack ubcores:sedimentary_draconicevolution:draconiumOre. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_gcewing_sg:naquadahOre
+Regex match found! ubcores:sedimentary_gcewing_sg:naquadahOre matches ubcores:sedimentary_gcewing_sg:naquadahOre.
+ubcores:sedimentary_gcewing_sg:naquadahOre has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: sedimentary_gcewing_sg:naquadahOre. If this is not correct please report it as a bug!
+Found ItemStack ubcores:sedimentary_gcewing_sg:naquadahOre. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_projectred.exploration.ore.6
+Regex match found! ubcores:sedimentary_projectred.exploration.ore.6 matches ubcores:sedimentary_projectred.exploration.ore.6.
+Found ItemStack ubcores:sedimentary_projectred.exploration.ore.6. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_arsmagica2:ores
+Regex match found! ubcores:sedimentary_arsmagica2:ores matches ubcores:sedimentary_arsmagica2:ores.
+ubcores:sedimentary_arsmagica2:ores has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: sedimentary_arsmagica2:ores. If this is not correct please report it as a bug!
+Found ItemStack ubcores:sedimentary_arsmagica2:ores. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_arsmagica2:ores.1
+Regex match found! ubcores:sedimentary_arsmagica2:ores.1 matches ubcores:sedimentary_arsmagica2:ores.1.
+ubcores:sedimentary_arsmagica2:ores.1 has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: sedimentary_arsmagica2:ores.1. If this is not correct please report it as a bug!
+Found ItemStack ubcores:sedimentary_arsmagica2:ores.1. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_arsmagica2:ores.2
+Regex match found! ubcores:sedimentary_arsmagica2:ores.2 matches ubcores:sedimentary_arsmagica2:ores.2.
+ubcores:sedimentary_arsmagica2:ores.2 has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: sedimentary_arsmagica2:ores.2. If this is not correct please report it as a bug!
+Found ItemStack ubcores:sedimentary_arsmagica2:ores.2. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_arsmagica2:ores.3
+Regex match found! ubcores:sedimentary_arsmagica2:ores.3 matches ubcores:sedimentary_arsmagica2:ores.3.
+ubcores:sedimentary_arsmagica2:ores.3 has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: ubcores, name: sedimentary_arsmagica2:ores.3. If this is not correct please report it as a bug!
+Found ItemStack ubcores:sedimentary_arsmagica2:ores.3. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_amberOre
+Regex match found! ubcores:sedimentary_amberOre matches ubcores:sedimentary_amberOre.
+Found ItemStack ubcores:sedimentary_amberOre. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_fossil
+Regex match found! ubcores:sedimentary_fossil matches ubcores:sedimentary_fossil.
+Found ItemStack ubcores:sedimentary_fossil. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_dilithium_ore
+Regex match found! ubcores:sedimentary_dilithium_ore matches ubcores:sedimentary_dilithium_ore.
+Found ItemStack ubcores:sedimentary_dilithium_ore. 64xtile.null@0
+hide called. Params: ubcores, sedimentary_tritanium_ore
+Regex match found! ubcores:sedimentary_tritanium_ore matches ubcores:sedimentary_tritanium_ore.
+Found ItemStack ubcores:sedimentary_tritanium_ore. 64xtile.null@0
+Loading: GM_UndergroundBiomes.js
+hide called. Params: UndergroundBiomes, igneous_oreRedstone
+Regex match found! UndergroundBiomes:igneous_oreRedstone matches UndergroundBiomes:igneous_oreRedstone.
+Found ItemStack UndergroundBiomes:igneous_oreRedstone. 64xtile.null@0
+hide called. Params: UndergroundBiomes, metamorphic_oreRedstone
+Regex match found! UndergroundBiomes:metamorphic_oreRedstone matches UndergroundBiomes:metamorphic_oreRedstone.
+Found ItemStack UndergroundBiomes:metamorphic_oreRedstone. 64xtile.null@0
+hide called. Params: UndergroundBiomes, sedimentary_oreRedstone
+Regex match found! UndergroundBiomes:sedimentary_oreRedstone matches UndergroundBiomes:sedimentary_oreRedstone.
+Found ItemStack UndergroundBiomes:sedimentary_oreRedstone. 64xtile.null@0
+hide called. Params: UndergroundBiomes, igneous_oreCoal
+Regex match found! UndergroundBiomes:igneous_oreCoal matches UndergroundBiomes:igneous_oreCoal.
+Found ItemStack UndergroundBiomes:igneous_oreCoal. 64xtile.null@0
+hide called. Params: UndergroundBiomes, metamorphic_oreCoal
+Regex match found! UndergroundBiomes:metamorphic_oreCoal matches UndergroundBiomes:metamorphic_oreCoal.
+Found ItemStack UndergroundBiomes:metamorphic_oreCoal. 64xtile.null@0
+hide called. Params: UndergroundBiomes, sedimentary_oreCoal
+Regex match found! UndergroundBiomes:sedimentary_oreCoal matches UndergroundBiomes:sedimentary_oreCoal.
+Found ItemStack UndergroundBiomes:sedimentary_oreCoal. 64xtile.null@0
+hide called. Params: UndergroundBiomes, igneous_oreDiamond
+Regex match found! UndergroundBiomes:igneous_oreDiamond matches UndergroundBiomes:igneous_oreDiamond.
+Found ItemStack UndergroundBiomes:igneous_oreDiamond. 64xtile.null@0
+hide called. Params: UndergroundBiomes, metamorphic_oreDiamond
+Regex match found! UndergroundBiomes:metamorphic_oreDiamond matches UndergroundBiomes:metamorphic_oreDiamond.
+Found ItemStack UndergroundBiomes:metamorphic_oreDiamond. 64xtile.null@0
+hide called. Params: UndergroundBiomes, sedimentary_oreDiamond
+Regex match found! UndergroundBiomes:sedimentary_oreDiamond matches UndergroundBiomes:sedimentary_oreDiamond.
+Found ItemStack UndergroundBiomes:sedimentary_oreDiamond. 64xtile.null@0
+hide called. Params: UndergroundBiomes, igneous_oreLapis
+Regex match found! UndergroundBiomes:igneous_oreLapis matches UndergroundBiomes:igneous_oreLapis.
+Found ItemStack UndergroundBiomes:igneous_oreLapis. 64xtile.null@0
+hide called. Params: UndergroundBiomes, metamorphic_oreLapis
+Regex match found! UndergroundBiomes:metamorphic_oreLapis matches UndergroundBiomes:metamorphic_oreLapis.
+Found ItemStack UndergroundBiomes:metamorphic_oreLapis. 64xtile.null@0
+hide called. Params: UndergroundBiomes, sedimentary_oreLapis
+Regex match found! UndergroundBiomes:sedimentary_oreLapis matches UndergroundBiomes:sedimentary_oreLapis.
+Found ItemStack UndergroundBiomes:sedimentary_oreLapis. 64xtile.null@0
+hide called. Params: UndergroundBiomes, igneous_oreEmerald
+Regex match found! UndergroundBiomes:igneous_oreEmerald matches UndergroundBiomes:igneous_oreEmerald.
+Found ItemStack UndergroundBiomes:igneous_oreEmerald. 64xtile.null@0
+hide called. Params: UndergroundBiomes, metamorphic_oreEmerald
+Regex match found! UndergroundBiomes:metamorphic_oreEmerald matches UndergroundBiomes:metamorphic_oreEmerald.
+Found ItemStack UndergroundBiomes:metamorphic_oreEmerald. 64xtile.null@0
+hide called. Params: UndergroundBiomes, sedimentary_oreEmerald
+Regex match found! UndergroundBiomes:sedimentary_oreEmerald matches UndergroundBiomes:sedimentary_oreEmerald.
+Found ItemStack UndergroundBiomes:sedimentary_oreEmerald. 64xtile.null@0
+hide called. Params: UndergroundBiomes, igneous_oreGold
+Regex match found! UndergroundBiomes:igneous_oreGold matches UndergroundBiomes:igneous_oreGold.
+Found ItemStack UndergroundBiomes:igneous_oreGold. 64xtile.null@0
+hide called. Params: UndergroundBiomes, metamorphic_oreGold
+Regex match found! UndergroundBiomes:metamorphic_oreGold matches UndergroundBiomes:metamorphic_oreGold.
+Found ItemStack UndergroundBiomes:metamorphic_oreGold. 64xtile.null@0
+hide called. Params: UndergroundBiomes, sedimentary_oreGold
+Regex match found! UndergroundBiomes:sedimentary_oreGold matches UndergroundBiomes:sedimentary_oreGold.
+Found ItemStack UndergroundBiomes:sedimentary_oreGold. 64xtile.null@0
+hide called. Params: UndergroundBiomes, igneous_tconstruct.stoneore.5
+Regex match found! UndergroundBiomes:igneous_tconstruct.stoneore.5 matches UndergroundBiomes:igneous_tconstruct.stoneore.5.
+Found ItemStack UndergroundBiomes:igneous_tconstruct.stoneore.5. 64xtile.null@0
+hide called. Params: UndergroundBiomes, metamorphic_tconstruct.stoneore.5
+Regex match found! UndergroundBiomes:metamorphic_tconstruct.stoneore.5 matches UndergroundBiomes:metamorphic_tconstruct.stoneore.5.
+Found ItemStack UndergroundBiomes:metamorphic_tconstruct.stoneore.5. 64xtile.null@0
+hide called. Params: UndergroundBiomes, sedimentary_tconstruct.stoneore.5
+Regex match found! UndergroundBiomes:sedimentary_tconstruct.stoneore.5 matches UndergroundBiomes:sedimentary_tconstruct.stoneore.5.
+Found ItemStack UndergroundBiomes:sedimentary_tconstruct.stoneore.5. 64xtile.null@0
+hide called. Params: UndergroundBiomes, igneous_oreIron
+Regex match found! UndergroundBiomes:igneous_oreIron matches UndergroundBiomes:igneous_oreIron.
+Found ItemStack UndergroundBiomes:igneous_oreIron. 64xtile.null@0
+hide called. Params: UndergroundBiomes, metamorphic_oreIron
+Regex match found! UndergroundBiomes:metamorphic_oreIron matches UndergroundBiomes:metamorphic_oreIron.
+Found ItemStack UndergroundBiomes:metamorphic_oreIron. 64xtile.null@0
+hide called. Params: UndergroundBiomes, sedimentary_oreIron
+Regex match found! UndergroundBiomes:sedimentary_oreIron matches UndergroundBiomes:sedimentary_oreIron.
+Found ItemStack UndergroundBiomes:sedimentary_oreIron. 64xtile.null@0
+hide called. Params: UndergroundBiomes, igneous_tconstruct.stoneore.4
+Regex match found! UndergroundBiomes:igneous_tconstruct.stoneore.4 matches UndergroundBiomes:igneous_tconstruct.stoneore.4.
+Found ItemStack UndergroundBiomes:igneous_tconstruct.stoneore.4. 64xtile.null@0
+hide called. Params: UndergroundBiomes, metamorphic_tconstruct.stoneore.4
+Regex match found! UndergroundBiomes:metamorphic_tconstruct.stoneore.4 matches UndergroundBiomes:metamorphic_tconstruct.stoneore.4.
+Found ItemStack UndergroundBiomes:metamorphic_tconstruct.stoneore.4. 64xtile.null@0
+hide called. Params: UndergroundBiomes, sedimentary_tconstruct.stoneore.4
+Regex match found! UndergroundBiomes:sedimentary_tconstruct.stoneore.4 matches UndergroundBiomes:sedimentary_tconstruct.stoneore.4.
+Found ItemStack UndergroundBiomes:sedimentary_tconstruct.stoneore.4. 64xtile.null@0
+hide called. Params: UndergroundBiomes, igneous_tconstruct.stoneore.3
+Regex match found! UndergroundBiomes:igneous_tconstruct.stoneore.3 matches UndergroundBiomes:igneous_tconstruct.stoneore.3.
+Found ItemStack UndergroundBiomes:igneous_tconstruct.stoneore.3. 64xtile.null@0
+hide called. Params: UndergroundBiomes, metamorphic_tconstruct.stoneore.3
+Regex match found! UndergroundBiomes:metamorphic_tconstruct.stoneore.3 matches UndergroundBiomes:metamorphic_tconstruct.stoneore.3.
+Found ItemStack UndergroundBiomes:metamorphic_tconstruct.stoneore.3. 64xtile.null@0
+hide called. Params: UndergroundBiomes, sedimentary_tconstruct.stoneore.3
+Regex match found! UndergroundBiomes:sedimentary_tconstruct.stoneore.3 matches UndergroundBiomes:sedimentary_tconstruct.stoneore.3.
+Found ItemStack UndergroundBiomes:sedimentary_tconstruct.stoneore.3. 64xtile.null@0
+Loading: GM_WitchingGadgets.js
+override_with_nbt called. Params: WitchingGadgets, item.WG_CrystalFlask
+Regex match found! WitchingGadgets:item.WG_CrystalFlask matches WitchingGadgets:item.WG_CrystalFlask.
+Found ItemStack WitchingGadgets:item.WG_CrystalFlask. 64xitem.WG_CrystalFlask@0

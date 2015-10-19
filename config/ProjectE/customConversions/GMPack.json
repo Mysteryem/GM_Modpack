@@ -1,0 +1,48 @@
+{
+  "comment": "Various values for custom OreDictionary Names",
+  "values": {
+    "before": {
+      //BOP gems
+      "OD|gemTopaz": 2048,
+      "OD|gemTanzanite": 2048,
+      "OD|gemMalachite": 2048,
+      "OD|gemAmber": 2048,
+      
+      "OD|ingotTungsten": 2048,
+      "OD|itemQuickSilver": 512,
+      "OD|dustCinnabar": 512,
+      "OD|gemApatite": 32,
+      "OD|ingotSilicon": 32,
+      "GalacticraftCore:item.cheeseCurd|0": 32,
+      "OD|ingotMeteoricIron": 512,
+      "OD|ingotDesh": 848,
+      "OD|ingotTitanium": 1404,
+      "OD|ingotQuontonium": 2093,
+      "OD|ingotFronisium": 2558,
+      "OD|ingotPalladium": 3852,
+      "OD|ingotPolongniusMeteoricIron": 3852,
+      "OD|ingotNorium": 6379,
+      "OD|gemRedGem": 6379,
+      "OD|gemBlackDiamond": 10565,
+      "OD|ingotIridium": 10565,
+      "OD|ingotKoentusMeteoricIron": 2326,
+      "OD|gemWhiteCrystal": 2326,
+      "OD|ingotMetalMeteoricIron": 2326,
+      "OD|gemPurpleCrystal": 1865,
+      "OD|gemLightUranium": 10565,
+      "OD|ingotFrozenIron": 3852,
+      "OD|ingotHeavySulfur": 1404,
+      "OD|gemXenium": 482,
+      "OD|gemFlonium": 482,
+      "OD|gemIchoriusGem": 797,
+      "OD|gemEMPCrystal": 291,
+      "OD|itemBacterialFossil": 291,
+      "OD|gemMineralCrystal": 1321,
+      "OD|ingotJaffarrol": 256,
+      "OD|dustLimsew": 64,
+      "OD|naquadah": 4096,
+      "OD|ingotManasteel": 2048,
+      "OD|itemCoal": 32
+    }
+  }
+}

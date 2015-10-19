@@ -1,6 +1,6 @@
-Total amount of free biome ids: 57
-Total amount of occupied biome ids: 199
-Total amount of conflicted biome ids: 6
+Total amount of free biome ids: 52
+Total amount of occupied biome ids: 204
+Total amount of conflicted biome ids: 0
 All ids and their position:
 0 is Occupied by Ocean (biomesoplenty.common.biome.overridden.BiomeGenBOPOcean)
 1 is Occupied by Plains (biomesoplenty.common.biome.overridden.BiomeGenBOPPlains)
@@ -11,7 +11,7 @@ All ids and their position:
 6 is Occupied by Swampland (biomesoplenty.common.biome.overridden.BiomeGenBOPSwamp)
 7 is Occupied by River (biomesoplenty.common.biome.overridden.BiomeGenBOPRiver)
 8 is Occupied by Hell (biomesoplenty.common.biome.overridden.BiomeGenBOPHell)
-9 is asked by: Sky (net.minecraft.world.biome.BiomeGenEnd), Sky (chylex.hee.world.biome.BiomeGenHardcoreEnd)
+9 is Occupied by Sky (chylex.hee.world.biome.BiomeGenHardcoreEnd)
 10 is Occupied by FrozenOcean (net.minecraft.world.biome.BiomeGenOcean)
 11 is Occupied by FrozenRiver (net.minecraft.world.biome.BiomeGenRiver)
 12 is Occupied by Ice Plains (biomesoplenty.common.biome.overridden.BiomeGenBOPIcePlains)
@@ -58,8 +58,8 @@ All ids and their position:
 53 is Occupied by Enchanted Forest (twilightforest.biomes.TFBiomeEnchantedForest)
 54 is Occupied by Fire Swamp (twilightforest.biomes.TFBiomeFireSwamp)
 55 is Occupied by Twilight Glacier (twilightforest.biomes.TFBiomeGlacier)
-56 is asked by: Dense Forest (biomesoplenty.common.biome.overworld.BiomeGenDenseForest), Twilight Highlands (twilightforest.biomes.TFBiomeHighlands)
-57 is asked by: Eucalyptus Forest (biomesoplenty.common.biome.overworld.BiomeGenEucalyptusForest), Highlands Center (twilightforest.biomes.TFBiomeFinalPlateau)
+56 is Occupied by Twilight Highlands (twilightforest.biomes.TFBiomeHighlands)
+57 is Occupied by Highlands Center (twilightforest.biomes.TFBiomeFinalPlateau)
 58 is Occupied by Twilight Lake (twilightforest.biomes.TFBiomeTwilightLake)
 59 is Occupied by Firefly Forest (twilightforest.biomes.TFBiomeFireflyForest)
 60 is Occupied by Mushroom Forest (twilightforest.biomes.TFBiomeMushrooms)
@@ -71,7 +71,7 @@ All ids and their position:
 66 is Occupied by Twilight Forest (twilightforest.biomes.TFBiomeTwilightForest)
 67 is Occupied by Dense Twilight Forest (twilightforest.biomes.TFBiomeTwilightForestVariant)
 68 is Occupied by Storage Cell (appeng.spatial.BiomeGenStorage)
-69 is asked by: Land of Lakes (biomesoplenty.common.biome.overworld.BiomeGenLandOfLakes), Pocket Plane (com.kentington.thaumichorizons.common.lib.BiomeGenPocket)
+69 is Occupied by Pocket Plane (com.kentington.thaumichorizons.common.lib.BiomeGenPocket)
 70 is Occupied by Limbo (StevenDimDoors.mod_pocketDim.world.BiomeGenLimbo)
 71 is Occupied by Pocket Dimension (StevenDimDoors.mod_pocketDim.world.BiomeGenPocket)
 72 is Avaible
@@ -101,7 +101,7 @@ All ids and their position:
 96 is Occupied by Tropics (biomesoplenty.common.biome.overworld.sub.BiomeGenTropics)
 97 is Occupied by Volcano (biomesoplenty.common.biome.overworld.sub.BiomeGenVolcano)
 98 is Occupied by Mangrove (biomesoplenty.common.biome.overworld.sub.BiomeGenMangrove)
-99 is asked by: Xeric Shrubland (biomesoplenty.common.biome.overworld.BiomeGenXericShrubland), Alps Forest (biomesoplenty.common.biome.overworld.sub.BiomeGenAlpsForest)
+99 is Occupied by Alps Forest (biomesoplenty.common.biome.overworld.sub.BiomeGenAlpsForest)
 100 is Occupied by Canyon Ravine (biomesoplenty.common.biome.overworld.sub.BiomeGenCanyonRavine)
 101 is Occupied by Glacier (biomesoplenty.common.biome.overworld.sub.BiomeGenGlacier)
 102 is Occupied by Meadow Forest (biomesoplenty.common.biome.overworld.sub.BiomeGenMeadowForest)
@@ -111,7 +111,7 @@ All ids and their position:
 106 is Occupied by Scrubland (biomesoplenty.common.biome.overworld.sub.BiomeGenScrubland)
 107 is Occupied by Silkglades (biomesoplenty.common.biome.overworld.sub.BiomeGenSilkglades)
 108 is Occupied by Spruce Woods (biomesoplenty.common.biome.overworld.sub.BiomeGenSpruceWoods)
-109 is asked by: Land of Lakes Marsh (biomesoplenty.common.biome.overworld.sub.BiomeGenLandOfLakesMarsh), Corrupted Sands (biomesoplenty.common.biome.nether.BiomeGenCorruptedSands)
+109 is Occupied by Corrupted Sands (biomesoplenty.common.biome.nether.BiomeGenCorruptedSands)
 110 is Avaible
 111 is Avaible
 112 is Avaible
@@ -251,10 +251,10 @@ All ids and their position:
 246 is Occupied by Thicket (biomesoplenty.common.biome.overworld.BiomeGenThicket)
 247 is Occupied by Tropical Rainforest (biomesoplenty.common.biome.overworld.BiomeGenTropicalRainforest)
 248 is Occupied by Seasonal Forest Clearing (biomesoplenty.common.biome.overworld.sub.BiomeGenSeasonalForestClearing)
-249 is Avaible
-250 is Avaible
-251 is Avaible
-252 is Avaible
-253 is Avaible
+249 is Occupied by Dense Forest (biomesoplenty.common.biome.overworld.BiomeGenDenseForest)
+250 is Occupied by Eucalyptus Forest (biomesoplenty.common.biome.overworld.BiomeGenEucalyptusForest)
+251 is Occupied by Land of Lakes (biomesoplenty.common.biome.overworld.BiomeGenLandOfLakes)
+252 is Occupied by Xeric Shrubland (biomesoplenty.common.biome.overworld.BiomeGenXericShrubland)
+253 is Occupied by Land of Lakes Marsh (biomesoplenty.common.biome.overworld.sub.BiomeGenLandOfLakesMarsh)
 254 is Avaible
 255 is Avaible
