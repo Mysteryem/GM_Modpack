@@ -51,6 +51,7 @@ recipes.remove(<ThermalFoundation:armor.legsCopper>);
 recipes.remove(<ThermalFoundation:armor.plateCopper>);
 recipes.remove(<ThermalFoundation:armor.helmetCopper>);
 recipes.remove(<ThermalFoundation:tool.swordCopper>);
+recipes.remove(<Mekanism:BasicBlock:3>);
 
 // ================================================================================
 //#MARKER REMOVE SHAPELESS

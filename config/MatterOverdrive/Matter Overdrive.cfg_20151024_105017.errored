@@ -122,12 +122,12 @@ entities {
         S:biome.whitelist <
          >
 
-        # Rogue Android Dimension ID blacklist
+        # Rouge Android Dimension ID blacklist
         I:dimension.blacklist <
             1
          >
 
-        # Rogue Android Dimension ID whitelist
+        # Rouge Android Dimension ID whitelist
         I:dimension.whitelist <
          >
 
@@ -305,27 +305,11 @@ entities {
     B:"automatic matter calculation from furnace"=false
     B:"automatic matter calculation from recipe"=true
     S:blacklist <
-        item.misc
-        tile.planks.bambooThatching
-        item.enchantedBook
-        item.pe_philosophers_stone
-        item.miscResources
-        "item.arsmagica2:itemOre"
-        item.runes
-        "item.arsmagica2:flicker_jar"
-        "item.arsmagica2:bindingCatalyst"
-        "tile.extrautils:generator.0"
-        "tile.extrautils:generator.1"
-        "tile.extrautils:generator.2"
-        "tile.extrautils:generator.3"
-        "tile.extrautils:generator.4"
-        "tile.extrautils:generator.5"
-        "tile.extrautils:generator.6"
-        "tile.extrautils:generator.7"
-        "tile.extrautils:generator.8"
-        "tile.extrautils:generator.9"
-        "tile.extrautils:generator.10"
-        "tile.extrautils:generator.11"
+      item.misc
+      tile.planks.bambooThatching
+      item.enchantedBook
+      item.pe_philosophers_stone
+      item.miscResources
      >
     S:mod_blacklist <
      >
@@ -337,41 +321,7 @@ entities {
     ##########################################################################################################
 
     "new items" {
-        I:CookieJar=40
-        I:CraftedSoil.ConsecratedSoil=3
-        I:block.brick.endstone=6
-        I:block.brick.netherrack=1
-        I:block.brick.obsidian=16
-        I:block.brick.sandstone=4
-        I:block.brick.stone.refined=1
-        I:block.fancybrick.endstone=6
-        I:block.fancybrick.netherrack=1
-        I:block.fancybrick.obsidian=16
-        I:block.fancybrick.sandstone=4
-        I:block.fancybrick.stone=1
-        I:block.fancybrick.stone.refined=1
-        I:block.fancybrick.stone.road=1
-        I:blockBronze=252
-        I:blockCharcoal=45
-        I:blockCopper=252
-        I:blockLead=288
-        I:blockMarble=2
-        I:blockPeridot=576
-        I:blockRuby=576
-        I:blockSapphire=576
-        I:blockSilver=270
-        I:blockTin=252
-        I:blockUranium=576
-        I:crystalCertusQuartz=8
-        I:crystalChargedCertusQuartz=32
-        I:crystalFluix=32
-        S:decorativeBlock1.2=12
-        I:dustCertusQuartz=4
         I:dustCinnabar=32
-        I:dustFluix=16
-        I:dustObsidian=4
-        I:enderio.blockFusedQuartz.fusedQuartz=12
-        I:enderio.ingotEnderiumBase=37
         I:gemAmber=64
         I:gemApatite=3
         I:gemBlackDiamond=311
@@ -389,30 +339,20 @@ entities {
         I:gemTopaz=64
         I:gemWhiteCrystal=86
         I:gemXeonium=32
-        I:gendustry.upgrades.cooler=243
-        S:handbow=105
-        I:ingotAluminumBrass=27
-        I:ingotAlumite=70
-        I:ingotArdite=42
         I:ingotBronze=28
-        I:ingotCobalt=42
         I:ingotDesh=43
         I:ingotElectrum=36
         I:ingotEnderium=49
         I:ingotFronisium=93
         I:ingotFrozenIron=130
-        I:ingotGraphite=5
         I:ingotHeavySulfur=59
         I:ingotIridium=311
         I:ingotKoentusMeteoricIron=69
         I:ingotLumium=30
         I:ingotManasteel=84
-        I:ingotManyullyn=84
         I:ingotMetalMeteoricIron=86
         I:ingotMeteoricIron=32
         I:ingotNorium=201
-        I:ingotObsidian=8
-        I:ingotOsmium=60
         I:ingotPalladium=130
         I:ingotPolongniusMeteoricIron=130
         I:ingotQuontonium=79
@@ -421,202 +361,19 @@ entities {
         I:ingotThaumium=84
         I:ingotTitanium=59
         I:ingotTungsten=64
-        S:ingredient.ashWood=2
-        S:ingredient.clayJar=1
-        S:ingredient.waystone=1
-        I:item.ItemShard.0=8
-        I:item.ItemShard.1=8
-        I:item.ItemShard.2=8
-        I:item.ItemShard.3=8
-        I:item.ItemShard.4=8
-        I:item.ItemShard.5=8
         I:item.cheeseCurd=2
-        I:item.defeatedcrow.bakedApple=1
-        I:item.defeatedcrow.icyCrystal_0=268
-        I:item.for.circuitboard.basic=52
-        I:item.for.circuitboard.enhanced=108
-        I:item.for.circuitboard.intricate=150
-        I:item.for.circuitboard.refined=120
-        I:item.mfr.plastic.raw=2
-        I:item.oc.PrintedCircuitBoard=9
         I:item.pe_divining_rod_1=1
         I:item.pe_repair_talisman=19
-        I:item.pe_zero_ring=13184
-        I:item.potatoPoisonous=1
-        I:item.projectred.core.part.anode=5
-        I:item.projectred.core.part.boule=88
-        I:item.projectred.core.part.bundled_plate=39
-        I:item.projectred.core.part.cathode=5
-        I:item.projectred.core.part.conductive_plate=4
-        I:item.projectred.core.part.energized_silicon=27
-        I:item.projectred.core.part.energized_silicon_chip=28
-        I:item.projectred.core.part.infused_silicon=43
-        I:item.projectred.core.part.platformed_plate=17
-        I:item.projectred.core.part.pointer=6
-        I:item.projectred.core.part.silicon_chip=44
-        I:item.projectred.core.part.wired_plate=6
-        I:"item.projectred.illumination.cagelamp.inv|0"=79
-        I:"item.projectred.illumination.cagelamp.inv|1"=79
-        I:"item.projectred.illumination.cagelamp.inv|10"=79
-        I:"item.projectred.illumination.cagelamp.inv|11"=85
-        I:"item.projectred.illumination.cagelamp.inv|12"=79
-        I:"item.projectred.illumination.cagelamp.inv|13"=79
-        I:"item.projectred.illumination.cagelamp.inv|14"=79
-        I:"item.projectred.illumination.cagelamp.inv|15"=79
-        I:"item.projectred.illumination.cagelamp.inv|2"=79
-        I:"item.projectred.illumination.cagelamp.inv|3"=79
-        I:"item.projectred.illumination.cagelamp.inv|4"=79
-        I:"item.projectred.illumination.cagelamp.inv|5"=79
-        I:"item.projectred.illumination.cagelamp.inv|6"=79
-        I:"item.projectred.illumination.cagelamp.inv|7"=79
-        I:"item.projectred.illumination.cagelamp.inv|8"=79
-        I:"item.projectred.illumination.cagelamp.inv|9"=79
-        I:"item.projectred.illumination.cagelamp2|0"=47
-        I:"item.projectred.illumination.cagelamp2|1"=47
-        I:"item.projectred.illumination.cagelamp2|10"=47
-        I:"item.projectred.illumination.cagelamp2|11"=53
-        I:"item.projectred.illumination.cagelamp2|12"=47
-        I:"item.projectred.illumination.cagelamp2|13"=47
-        I:"item.projectred.illumination.cagelamp2|14"=47
-        I:"item.projectred.illumination.cagelamp2|15"=47
-        I:"item.projectred.illumination.cagelamp2|2"=47
-        I:"item.projectred.illumination.cagelamp2|3"=47
-        I:"item.projectred.illumination.cagelamp2|4"=47
-        I:"item.projectred.illumination.cagelamp2|5"=47
-        I:"item.projectred.illumination.cagelamp2|6"=47
-        I:"item.projectred.illumination.cagelamp2|7"=47
-        I:"item.projectred.illumination.cagelamp2|8"=47
-        I:"item.projectred.illumination.cagelamp2|9"=47
-        I:"item.projectred.illumination.cagelamp|0"=78
-        I:"item.projectred.illumination.cagelamp|1"=78
-        I:"item.projectred.illumination.cagelamp|10"=78
-        I:"item.projectred.illumination.cagelamp|11"=84
-        I:"item.projectred.illumination.cagelamp|12"=78
-        I:"item.projectred.illumination.cagelamp|13"=78
-        I:"item.projectred.illumination.cagelamp|14"=78
-        I:"item.projectred.illumination.cagelamp|15"=78
-        I:"item.projectred.illumination.cagelamp|2"=78
-        I:"item.projectred.illumination.cagelamp|3"=78
-        I:"item.projectred.illumination.cagelamp|4"=78
-        I:"item.projectred.illumination.cagelamp|5"=78
-        I:"item.projectred.illumination.cagelamp|6"=78
-        I:"item.projectred.illumination.cagelamp|7"=78
-        I:"item.projectred.illumination.cagelamp|8"=78
-        I:"item.projectred.illumination.cagelamp|9"=78
-        I:"item.projectred.illumination.fixture.inv|0"=17
-        I:"item.projectred.illumination.fixture.inv|1"=17
-        I:"item.projectred.illumination.fixture.inv|10"=17
-        I:"item.projectred.illumination.fixture.inv|11"=23
-        I:"item.projectred.illumination.fixture.inv|12"=17
-        I:"item.projectred.illumination.fixture.inv|13"=17
-        I:"item.projectred.illumination.fixture.inv|14"=17
-        I:"item.projectred.illumination.fixture.inv|15"=17
-        I:"item.projectred.illumination.fixture.inv|2"=17
-        I:"item.projectred.illumination.fixture.inv|3"=17
-        I:"item.projectred.illumination.fixture.inv|4"=17
-        I:"item.projectred.illumination.fixture.inv|5"=17
-        I:"item.projectred.illumination.fixture.inv|6"=17
-        I:"item.projectred.illumination.fixture.inv|7"=17
-        I:"item.projectred.illumination.fixture.inv|8"=17
-        I:"item.projectred.illumination.fixture.inv|9"=17
-        I:"item.projectred.illumination.fixture|0"=16
-        I:"item.projectred.illumination.fixture|1"=16
-        I:"item.projectred.illumination.fixture|10"=16
-        I:"item.projectred.illumination.fixture|11"=22
-        I:"item.projectred.illumination.fixture|12"=16
-        I:"item.projectred.illumination.fixture|13"=16
-        I:"item.projectred.illumination.fixture|14"=16
-        I:"item.projectred.illumination.fixture|15"=16
-        I:"item.projectred.illumination.fixture|2"=16
-        I:"item.projectred.illumination.fixture|3"=16
-        I:"item.projectred.illumination.fixture|4"=16
-        I:"item.projectred.illumination.fixture|5"=16
-        I:"item.projectred.illumination.fixture|6"=16
-        I:"item.projectred.illumination.fixture|7"=16
-        I:"item.projectred.illumination.fixture|8"=16
-        I:"item.projectred.illumination.fixture|9"=16
-        I:"item.projectred.illumination.lantern.inv|0"=19
-        I:"item.projectred.illumination.lantern.inv|1"=19
-        I:"item.projectred.illumination.lantern.inv|10"=19
-        I:"item.projectred.illumination.lantern.inv|11"=25
-        I:"item.projectred.illumination.lantern.inv|12"=19
-        I:"item.projectred.illumination.lantern.inv|13"=19
-        I:"item.projectred.illumination.lantern.inv|14"=19
-        I:"item.projectred.illumination.lantern.inv|15"=19
-        I:"item.projectred.illumination.lantern.inv|2"=19
-        I:"item.projectred.illumination.lantern.inv|3"=19
-        I:"item.projectred.illumination.lantern.inv|4"=19
-        I:"item.projectred.illumination.lantern.inv|5"=19
-        I:"item.projectred.illumination.lantern.inv|6"=19
-        I:"item.projectred.illumination.lantern.inv|7"=19
-        I:"item.projectred.illumination.lantern.inv|8"=19
-        I:"item.projectred.illumination.lantern.inv|9"=19
-        I:"item.projectred.illumination.lantern|0"=18
-        I:"item.projectred.illumination.lantern|1"=18
-        I:"item.projectred.illumination.lantern|10"=18
-        I:"item.projectred.illumination.lantern|11"=24
-        I:"item.projectred.illumination.lantern|12"=18
-        I:"item.projectred.illumination.lantern|13"=18
-        I:"item.projectred.illumination.lantern|14"=18
-        I:"item.projectred.illumination.lantern|15"=18
-        I:"item.projectred.illumination.lantern|2"=18
-        I:"item.projectred.illumination.lantern|3"=18
-        I:"item.projectred.illumination.lantern|4"=18
-        I:"item.projectred.illumination.lantern|5"=18
-        I:"item.projectred.illumination.lantern|6"=18
-        I:"item.projectred.illumination.lantern|7"=18
-        I:"item.projectred.illumination.lantern|8"=18
-        I:"item.projectred.illumination.lantern|9"=18
-        I:"item.projectred.integration.gate|0"=24
-        I:"item.projectred.integration.gate|1"=24
-        I:"item.projectred.integration.gate|10"=26
-        I:"item.projectred.integration.gate|11"=101
-        I:"item.projectred.integration.gate|12"=36
-        I:"item.projectred.integration.gate|13"=22
-        I:"item.projectred.integration.gate|14"=38
-        I:"item.projectred.integration.gate|15"=18
-        I:"item.projectred.integration.gate|16"=12
-        I:"item.projectred.integration.gate|17"=34
-        I:"item.projectred.integration.gate|18"=28
-        I:"item.projectred.integration.gate|19"=26
-        I:"item.projectred.integration.gate|2"=26
-        I:"item.projectred.integration.gate|20"=69
-        I:"item.projectred.integration.gate|21"=118
-        I:"item.projectred.integration.gate|22"=322
-        I:"item.projectred.integration.gate|23"=43
-        I:"item.projectred.integration.gate|24"=42
-        I:"item.projectred.integration.gate|25"=46
-        I:"item.projectred.integration.gate|26"=27
-        I:"item.projectred.integration.gate|27"=52
-        I:"item.projectred.integration.gate|28"=270
-        I:"item.projectred.integration.gate|29"=97
-        I:"item.projectred.integration.gate|3"=35
-        I:"item.projectred.integration.gate|30"=283
-        I:"item.projectred.integration.gate|31"=33
-        I:"item.projectred.integration.gate|32"=94
-        I:"item.projectred.integration.gate|33"=129
-        I:"item.projectred.integration.gate|4"=35
-        I:"item.projectred.integration.gate|5"=42
-        I:"item.projectred.integration.gate|6"=43
-        I:"item.projectred.integration.gate|7"=33
-        I:"item.projectred.integration.gate|8"=39
-        I:"item.projectred.integration.gate|9"=38
-        I:item.tconstruct.Materials.SearedBrick=5
-        I:item.tconstruct.Materials.SlimeCrystal=11
-        I:item.thermalexpansion.tool.chiller=174
         I:itemBacterialFossil=26
-        I:itemQuickSilver=32
-        I:itemRubber=2
-        I:itemSilicon=2
         I:naquadah=42
+        I:itemQuickSilver=32
+        I:itemSilicon=2
         I:oreAmber=128
         I:oreApatite=12
-        I:oreArdite=84
         I:oreBacterialFossil=52
         I:oreBlackDiamond=622
         I:oreCheese=16
         I:oreCinnabar=64
-        I:oreCobalt=84
         I:oreDesh=86
         I:oreEMPCrystal=52
         I:oreFlonium=64
@@ -633,7 +390,6 @@ entities {
         I:oreMineralCrystal=114
         I:oreNaquadah=168
         I:oreNorium=402
-        I:oreOsmium=120
         I:orePalladium=260
         I:orePeridot=128
         I:orePurpleCrystal=260
@@ -649,27 +405,255 @@ entities {
         I:oreWhiteCrystal=172
         I:oreXeonium=64
         I:oreYellorium=128
-        I:stoneMossy=2
-        I:tile.cookie_block=1
-        I:tile.driedDirt=1
-        I:tile.mfr.farmland=109
         I:tile.pe_alchemy_chest=394
+        I:tile.web=1
+        I:tile.tallgrass.grass=1
+        I:tile.tallgrass.fern=1
+        I:tile.torch=1
+        I:item.potatoPoisonous=1
+        I:CookieJar=40
+        I:ingotGraphite=5
+        I:itemRubber=2
+        I:tile.driedDirt=1
         I:tile.petals.bigflowerred=1
         I:tile.petals.bigfloweryellow=1
-        I:"tile.projectred.exploration.stone|2"=1
-        I:"tile.projectred.exploration.stone|3"=1
-        I:tile.railcraft.brick.bloodstained.cobble=11
-        I:tile.railcraft.brick.frostbound.cobble=4
-        I:tile.railcraft.brick.infernal.cobble=8
-        I:tile.railcraft.brick.nether.block=4
-        I:tile.strongGlass=3
-        I:tile.tallgrass.fern=1
-        I:tile.tallgrass.grass=1
+        I:treeSapling=2
+        I:stoneMossy=2
+        I:item.defeatedcrow.icyCrystal_0=268
+        I:item.defeatedcrow.bakedApple=1
+        I:enderio.blockFusedQuartz.fusedQuartz=12
+        I:dustObsidian=4
         I:tile.thermalexpansion.glass.name=24
         I:tile.thermalexpansion.glassLumium.name=23
-        I:tile.torch=1
-        I:tile.web=1
-        I:treeSapling=2
+        I:enderio.ingotEnderiumBase=37
+        I:tile.extrautils:decorativeBlock1.2=12
+        I:item.for.circuitboard.basic=52
+        I:item.for.circuitboard.enhanced=108
+        I:item.for.circuitboard.refined=120
+        I:item.for.circuitboard.intricate=150
+        I:blockCopper=252
+        I:blockTin=252
+        I:blockBronze=252
+        I:blockUranium=576
+        I:blockLead=288
+        I:blockCharcoal=45
+        I:ingotOsmium=60
+        I:oreOsmium=120
+        I:item.mfr.plastic.raw=2
+        I:tile.mfr.farmland=109
+        I:tile.cookie_block=1
+        I:item.oc.PrintedCircuitBoard=9
+        I:item.projectred.core.part.conductive_plate=4
+        I:item.projectred.core.part.wired_plate=6
+        I:item.projectred.core.part.bundled_plate=39
+        I:item.projectred.core.part.anode=5
+        I:item.projectred.core.part.cathode=5
+        I:item.projectred.core.part.pointer=6
+        I:item.projectred.core.part.boule=88
+        I:item.projectred.core.part.infused_silicon=43
+        I:item.projectred.core.part.silicon_chip=44
+        I:item.projectred.core.part.energized_silicon=27
+        I:item.projectred.core.part.energized_silicon_chip=28
+        I:item.projectred.core.part.platformed_plate=17
+        I:blockMarble=2
+        I:"tile.projectred.exploration.stone|2"=1
+        I:"tile.projectred.exploration.stone|3"=1
+        I:blockRuby=576
+        I:blockSapphire=576
+        I:blockPeridot=576
+        I:blockSilver=270
+        I:"item.projectred.illumination.lantern|0"=18
+        I:"item.projectred.illumination.lantern|1"=18
+        I:"item.projectred.illumination.lantern|2"=18
+        I:"item.projectred.illumination.lantern|3"=18
+        I:"item.projectred.illumination.lantern|4"=18
+        I:"item.projectred.illumination.lantern|5"=18
+        I:"item.projectred.illumination.lantern|6"=18
+        I:"item.projectred.illumination.lantern|7"=18
+        I:"item.projectred.illumination.lantern|8"=18
+        I:"item.projectred.illumination.lantern|9"=18
+        I:"item.projectred.illumination.lantern|10"=18
+        I:"item.projectred.illumination.lantern|11"=24
+        I:"item.projectred.illumination.lantern|12"=18
+        I:"item.projectred.illumination.lantern|13"=18
+        I:"item.projectred.illumination.lantern|14"=18
+        I:"item.projectred.illumination.lantern|15"=18
+        I:"item.projectred.illumination.lantern.inv|0"=19
+        I:"item.projectred.illumination.lantern.inv|1"=19
+        I:"item.projectred.illumination.lantern.inv|2"=19
+        I:"item.projectred.illumination.lantern.inv|3"=19
+        I:"item.projectred.illumination.lantern.inv|4"=19
+        I:"item.projectred.illumination.lantern.inv|5"=19
+        I:"item.projectred.illumination.lantern.inv|6"=19
+        I:"item.projectred.illumination.lantern.inv|7"=19
+        I:"item.projectred.illumination.lantern.inv|8"=19
+        I:"item.projectred.illumination.lantern.inv|9"=19
+        I:"item.projectred.illumination.lantern.inv|10"=19
+        I:"item.projectred.illumination.lantern.inv|11"=25
+        I:"item.projectred.illumination.lantern.inv|12"=19
+        I:"item.projectred.illumination.lantern.inv|13"=19
+        I:"item.projectred.illumination.lantern.inv|14"=19
+        I:"item.projectred.illumination.lantern.inv|15"=19
+        I:"item.projectred.illumination.fixture|0"=16
+        I:"item.projectred.illumination.fixture|1"=16
+        I:"item.projectred.illumination.fixture|2"=16
+        I:"item.projectred.illumination.fixture|3"=16
+        I:"item.projectred.illumination.fixture|4"=16
+        I:"item.projectred.illumination.fixture|5"=16
+        I:"item.projectred.illumination.fixture|6"=16
+        I:"item.projectred.illumination.fixture|7"=16
+        I:"item.projectred.illumination.fixture|8"=16
+        I:"item.projectred.illumination.fixture|9"=16
+        I:"item.projectred.illumination.fixture|10"=16
+        I:"item.projectred.illumination.fixture|11"=22
+        I:"item.projectred.illumination.fixture|12"=16
+        I:"item.projectred.illumination.fixture|13"=16
+        I:"item.projectred.illumination.fixture|14"=16
+        I:"item.projectred.illumination.fixture|15"=16
+        I:"item.projectred.illumination.fixture.inv|0"=17
+        I:"item.projectred.illumination.fixture.inv|1"=17
+        I:"item.projectred.illumination.fixture.inv|2"=17
+        I:"item.projectred.illumination.fixture.inv|3"=17
+        I:"item.projectred.illumination.fixture.inv|4"=17
+        I:"item.projectred.illumination.fixture.inv|5"=17
+        I:"item.projectred.illumination.fixture.inv|6"=17
+        I:"item.projectred.illumination.fixture.inv|7"=17
+        I:"item.projectred.illumination.fixture.inv|8"=17
+        I:"item.projectred.illumination.fixture.inv|9"=17
+        I:"item.projectred.illumination.fixture.inv|10"=17
+        I:"item.projectred.illumination.fixture.inv|11"=23
+        I:"item.projectred.illumination.fixture.inv|12"=17
+        I:"item.projectred.illumination.fixture.inv|13"=17
+        I:"item.projectred.illumination.fixture.inv|14"=17
+        I:"item.projectred.illumination.fixture.inv|15"=17
+        I:"item.projectred.illumination.cagelamp|0"=78
+        I:"item.projectred.illumination.cagelamp|1"=78
+        I:"item.projectred.illumination.cagelamp|2"=78
+        I:"item.projectred.illumination.cagelamp|3"=78
+        I:"item.projectred.illumination.cagelamp|4"=78
+        I:"item.projectred.illumination.cagelamp|5"=78
+        I:"item.projectred.illumination.cagelamp|6"=78
+        I:"item.projectred.illumination.cagelamp|7"=78
+        I:"item.projectred.illumination.cagelamp|8"=78
+        I:"item.projectred.illumination.cagelamp|9"=78
+        I:"item.projectred.illumination.cagelamp|10"=78
+        I:"item.projectred.illumination.cagelamp|11"=84
+        I:"item.projectred.illumination.cagelamp|12"=78
+        I:"item.projectred.illumination.cagelamp|13"=78
+        I:"item.projectred.illumination.cagelamp|14"=78
+        I:"item.projectred.illumination.cagelamp|15"=78
+        I:"item.projectred.illumination.cagelamp.inv|0"=79
+        I:"item.projectred.illumination.cagelamp.inv|1"=79
+        I:"item.projectred.illumination.cagelamp.inv|2"=79
+        I:"item.projectred.illumination.cagelamp.inv|3"=79
+        I:"item.projectred.illumination.cagelamp.inv|4"=79
+        I:"item.projectred.illumination.cagelamp.inv|5"=79
+        I:"item.projectred.illumination.cagelamp.inv|6"=79
+        I:"item.projectred.illumination.cagelamp.inv|7"=79
+        I:"item.projectred.illumination.cagelamp.inv|8"=79
+        I:"item.projectred.illumination.cagelamp.inv|9"=79
+        I:"item.projectred.illumination.cagelamp.inv|10"=79
+        I:"item.projectred.illumination.cagelamp.inv|11"=85
+        I:"item.projectred.illumination.cagelamp.inv|12"=79
+        I:"item.projectred.illumination.cagelamp.inv|13"=79
+        I:"item.projectred.illumination.cagelamp.inv|14"=79
+        I:"item.projectred.illumination.cagelamp.inv|15"=79
+        I:"item.projectred.illumination.cagelamp2|0"=47
+        I:"item.projectred.illumination.cagelamp2|1"=47
+        I:"item.projectred.illumination.cagelamp2|2"=47
+        I:"item.projectred.illumination.cagelamp2|3"=47
+        I:"item.projectred.illumination.cagelamp2|4"=47
+        I:"item.projectred.illumination.cagelamp2|5"=47
+        I:"item.projectred.illumination.cagelamp2|6"=47
+        I:"item.projectred.illumination.cagelamp2|7"=47
+        I:"item.projectred.illumination.cagelamp2|8"=47
+        I:"item.projectred.illumination.cagelamp2|9"=47
+        I:"item.projectred.illumination.cagelamp2|10"=47
+        I:"item.projectred.illumination.cagelamp2|11"=53
+        I:"item.projectred.illumination.cagelamp2|12"=47
+        I:"item.projectred.illumination.cagelamp2|13"=47
+        I:"item.projectred.illumination.cagelamp2|14"=47
+        I:"item.projectred.illumination.cagelamp2|15"=47
+        I:"item.projectred.integration.gate|0"=24
+        I:"item.projectred.integration.gate|1"=24
+        I:"item.projectred.integration.gate|2"=26
+        I:"item.projectred.integration.gate|3"=35
+        I:"item.projectred.integration.gate|4"=35
+        I:"item.projectred.integration.gate|5"=42
+        I:"item.projectred.integration.gate|6"=43
+        I:"item.projectred.integration.gate|7"=33
+        I:"item.projectred.integration.gate|8"=39
+        I:"item.projectred.integration.gate|9"=38
+        I:"item.projectred.integration.gate|10"=26
+        I:"item.projectred.integration.gate|11"=101
+        I:"item.projectred.integration.gate|12"=36
+        I:"item.projectred.integration.gate|13"=22
+        I:"item.projectred.integration.gate|14"=38
+        I:"item.projectred.integration.gate|15"=18
+        I:"item.projectred.integration.gate|16"=12
+        I:"item.projectred.integration.gate|17"=34
+        I:"item.projectred.integration.gate|18"=28
+        I:"item.projectred.integration.gate|19"=26
+        I:"item.projectred.integration.gate|20"=69
+        I:"item.projectred.integration.gate|21"=118
+        I:"item.projectred.integration.gate|22"=322
+        I:"item.projectred.integration.gate|23"=43
+        I:"item.projectred.integration.gate|24"=42
+        I:"item.projectred.integration.gate|25"=46
+        I:"item.projectred.integration.gate|26"=27
+        I:"item.projectred.integration.gate|27"=52
+        I:"item.projectred.integration.gate|28"=270
+        I:"item.projectred.integration.gate|29"=97
+        I:"item.projectred.integration.gate|30"=283
+        I:"item.projectred.integration.gate|31"=33
+        I:"item.projectred.integration.gate|32"=94
+        I:"item.projectred.integration.gate|33"=129
+        I:item.pe_zero_ring=13184
+        I:tile.railcraft.brick.infernal.cobble=8
+        I:tile.railcraft.brick.bloodstained.cobble=11
+        I:tile.railcraft.brick.nether.block=4
+        I:tile.railcraft.brick.frostbound.cobble=4
+        I:block.brick.obsidian=16
+        I:block.brick.sandstone=4
+        I:block.brick.netherrack=1
+        I:block.brick.stone.refined=1
+        I:block.brick.endstone=6
+        I:block.fancybrick.obsidian=16
+        I:block.fancybrick.sandstone=4
+        I:block.fancybrick.netherrack=1
+        I:block.fancybrick.stone.refined=1
+        I:block.fancybrick.endstone=6
+        I:block.fancybrick.stone=1
+        I:block.fancybrick.stone.road=1
+        I:ingotObsidian=8
+        I:ingotCobalt=42
+        I:oreCobalt=84
+        I:ingotArdite=42
+        I:oreArdite=84
+        I:ingotManyullyn=84
+        I:ingotAluminumBrass=27
+        I:ingotAlumite=70
+        I:CraftedSoil.ConsecratedSoil=3
+        I:item.tconstruct.Materials.SearedBrick=5
+        I:item.tconstruct.Materials.SlimeCrystal=11
+        I:item.ItemShard.0=8
+        I:item.ItemShard.1=8
+        I:item.ItemShard.2=8
+        I:item.ItemShard.3=8
+        I:item.ItemShard.4=8
+        I:item.ItemShard.5=8
+        I:item.thermalexpansion.tool.chiller=174
+        I:crystalCertusQuartz=8
+        I:crystalFluix=32
+        I:dustCertusQuartz=4
+        I:dustFluix=16
+        I:crystalChargedCertusQuartz=32
+        I:tile.strongGlass=3
+        I:gendustry.upgrades.cooler=243
+        I:item.witchery:ingredient,waystone=1
+        I:item.witchery:ingredient.ashWood=2
+        I:item.witchery:ingredient.clayJar=1
+        I:item.witchery:handbow=105
     }
 
     ##########################################################################################################
@@ -679,12 +663,12 @@ entities {
     ##########################################################################################################
 
     "item overrides" {
-        I:dustObsidian=4
         I:ic2.itemDustObsidian=4
-        I:item.pe_fuel_aeternalis=512
+        I:dustObsidian=4
+        I:item.projectred.core.part.silicon=11
         I:item.pe_fuel_alchemical_coal=32
         I:item.pe_fuel_mobius=128
-        I:item.projectred.core.part.silicon=11
+        I:item.pe_fuel_aeternalis=512
         I:tile.pe_interdiction_torch=392
         I:tile.pe_transmutation_stone=68
     }

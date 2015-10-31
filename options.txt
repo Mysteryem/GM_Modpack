@@ -3,7 +3,7 @@ mouseSensitivity:0.5
 fov:0.75
 gamma:1.0
 saturation:0.0
-renderDistance:7
+renderDistance:2
 guiScale:2
 particles:0
 bobView:true
@@ -39,7 +39,7 @@ chatHeightUnfocused:0.44366196
 chatScale:1.0
 chatWidth:1.0
 showInventoryAchievementHint:false
-mipmapLevels:4
+mipmapLevels:0
 anisotropicFiltering:1
 streamBytesPerPixel:0.5
 streamMicVolume:1.0
@@ -90,8 +90,8 @@ key_Boost Key:29
 key_Mode Switch Key:50
 key_Side Inventory Key:46
 key_Hub Expand Key:45
-key_PcktCrft Open (FZ):46
 key_Sprint (FZ):0
+key_PcktCrft Open (FZ):46
 key_key.archimedes.up:45
 key_key.archimedes.down:44
 key_key.archimedes.brake:46
@@ -100,7 +100,7 @@ key_key.archimedes.decompile:43
 key_key.archimedes.shipinv:37
 key_key.openCompendium:25
 key_key.pong:33
-key_key.clockworkphase.multitool:47
+key_key.clockworkphase.multitool:0
 key_key.clockworkphase.temporalAbility:19
 key_Cosmetic Inventory:46
 key_key.binder:40
@@ -167,7 +167,7 @@ key_key.materialCosts:56
 key_key.clipboardPaste:210
 key_key.armor:25
 key_key.aspectMenu:23
-key_Change Arcane Lens:47
+key_Change Arcane Lens:0
 key_Activate Morphic Fingers:49
 key_Toggle Spider Climb:46
 key_Toggle Chameleon Skin:45
@@ -199,7 +199,7 @@ key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
-soundCategory_master:0.0
+soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.0

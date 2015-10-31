@@ -4,3 +4,7 @@ val ingotAluminum = <ore:ingotAluminum>;
 ingotTin.add(<GalacticraftCore:item.basicItem:4>);
 ingotCopper.add(<GalacticraftCore:item.basicItem:3>);
 ingotAluminum.add(<GalacticraftCore:item.basicItem:5>);
+val shardIron = <ore:shardIron>;
+val shardTitanium = <ore:shardTitanium>;
+shardIron.remove(<GalacticraftMars:item.itemBasicAsteroids:3>);
+shardTitanium.remove(<GalacticraftMars:item.itemBasicAsteroids:4>);

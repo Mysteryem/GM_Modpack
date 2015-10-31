@@ -44,7 +44,7 @@
       "OD|blockMarble": 4,
 
       //TE
-      "OD|blockGlassHardened": 192,
+      //"OD|blockGlassHardened": 288,
 
       //IC2 BigReactors
       "OD|itemRubber": 32,

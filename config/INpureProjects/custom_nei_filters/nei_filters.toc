@@ -23,6 +23,7 @@ GM_Gendustry.js
 GM_Genetics.js
 GM_IC2.js
 GM_OpenBlocks.js
+GM_ProjectRed.js
 GM_ProjectZulu¦Core.js
 GM_UBCOreRegistrar.js
 GM_UndergroundBiomes.js

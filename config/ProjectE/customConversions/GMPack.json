@@ -43,6 +43,15 @@
       "OD|naquadah": 4096,
       "OD|ingotManasteel": 2048,
       "OD|itemCoal": 32
-    }
+    },
+    "conversion": [
+      {"evalOD": false, "o": "EnderIO:blockFusedQuartz|0", "c": 1, "i": {"minecraft:quartz|0":4}},
+      {"evalOD": false, "o": "ThermalExpansion:Glass|1", "c": 2, "i": {"OD|ingotLumium":1, "minecraft:obsidian|0":1}},
+      {"evalOD": false, "o": "ThermalExpansion:Glass|0", "c": 2, "i": {"OD|ingotLead":1, "minecraft:obsidian|0":1}},
+      {"evalOD": false, "o": "Forestry:chipsets|0", "c": 1, "i": {"OD|ingotTin":1, "minecraft:redstone|0":6}},
+      {"evalOD": false, "o": "Forestry:chipsets|1", "c": 1, "i": {"OD|ingotBronze":3, "minecraft:redstone|0":6}},
+      {"evalOD": false, "o": "Forestry:chipsets|2", "c": 1, "i": {"OD|ingotIron":3, "minecraft:redstone|0":6}},
+      {"evalOD": false, "o": "Forestry:chipsets|3", "c": 1, "i": {"OD|ingotGold":3, "minecraft:redstone|0":6}}
+    ]
   }
 }
