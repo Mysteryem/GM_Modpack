@@ -52,6 +52,9 @@ recipes.remove(<ThermalFoundation:armor.plateCopper>);
 recipes.remove(<ThermalFoundation:armor.helmetCopper>);
 recipes.remove(<ThermalFoundation:tool.swordCopper>);
 recipes.remove(<Mekanism:BasicBlock:3>);
+recipes.remove(<ProjectZulu|Core:WoodenBucket>);
+//recipes.remove(<Botania:flowerBag>);
+recipes.remove(<ironbackpacks:treatedLeather>);
 
 // ================================================================================
 //#MARKER REMOVE SHAPELESS
@@ -64,7 +67,7 @@ recipes.remove(<Mekanism:BasicBlock:3>);
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
-
+recipes.addShapeless(<ironbackpacks:treatedLeather>, [<minecraft:leather>, <minecraft:water_bucket>.transformReplace(<minecraft:bucket>), <ore:dyeLime>, <minecraft:flint>]);
 // ================================================================================
 //#MARKER ADD SHAPED
 recipes.addShapedMirrored(<Eln:Eln.Copper Axe>, [[<ore:ingotCopper>, <ore:ingotCopper>], [<ore:ingotCopper>, <ore:stickWood>], [null, <ore:stickWood>]]);
@@ -80,4 +83,6 @@ recipes.addShapedMirrored(<MekanismTools:BronzeAxe>, [[<ore:ingotBronze>, <ore:i
 recipes.addShaped(<MekanismTools:BronzeShovel>, [[<ore:ingotBronze>], [<ore:ingotBronze>], [<ore:stickWood>]]);
 recipes.addShaped(<MekanismTools:BronzePickaxe>, [[<ore:ingotBronze>, <ore:ingotBronze>, <ore:ingotBronze>], [null, <ore:stickWood>, null], [null, <ore:stickWood>, null]]);
 recipes.addShaped(<MekanismTools:BronzeSword>, [[<ore:ingotBronze>], [<ore:ingotBronze>], [<ore:stickWood>]]);
+recipes.addShaped(<ProjectZulu|Core:WoodenBucket>, [[<ore:plankWood>, null, <ore:plankWood>], [null, <ore:plankWood>, null]]);
+//recipes.addShaped(<Botania:flowerBag>, [[<ore:blockWool>, <Botania:petal:*>, <ore:blockWool>], [<ore:blockWool>, null, <ore:blockWool>], [null, <ore:blockWool>, null]]);
 
