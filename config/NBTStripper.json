@@ -1,0 +1,40 @@
+{
+  "example.class.One": [
+    "nbttagname1"
+  ],
+  "example.class.Two": [
+    "nbttagname1",
+    "nbttagname2"
+  ],
+  
+  
+  "forestry.lepidopterology.entities.EntityButterfly": [
+	"PLN",
+	"STATE",
+	"EXH"
+  ],
+  "tropicraft.entities.hostile.land.SpiderAdult": [
+    "maxEggsToSpawn"
+  ],
+  "tropicraft.entities.hostile.EntityLand": [
+    "ICoroAI_entID",
+	"homeX",
+	"homeY",
+	"homeZ",
+	"tamedByUser"
+  ],
+  "net.minecraft.entity.passive.EntityHorse": [
+    "HasReproduced",
+	"Bred",
+	"Temper",
+	"Tame",
+	"OwnerName",
+	"Items"
+  ],
+  "matteroverdrive.entity.EntityRougeAndroidMob": [
+  "CustomName"
+  ],
+  "matteroverdrive.entity.monster.EntityRangedRogueAndroidMob": [
+  "CustomName"
+  ]
+}

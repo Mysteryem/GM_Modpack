@@ -8,7 +8,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -19,7 +19,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -30,7 +30,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -41,7 +41,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -52,7 +52,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -63,7 +63,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -74,7 +74,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -85,7 +85,7 @@
       "onCrafted": true,
       "openGuiClass": "vazkii.botania.client.gui.lexicon.GuiLexiconIndex",
       "openGuiNBT": "knowledge.alfheim",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": "Botania:lexicon 0"
     },
     {
@@ -96,7 +96,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -107,7 +107,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -118,7 +118,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -129,7 +129,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -140,7 +140,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -151,7 +151,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -162,7 +162,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -173,7 +173,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -184,7 +184,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -195,7 +195,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -206,7 +206,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -217,7 +217,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -228,7 +228,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -239,7 +239,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -250,7 +250,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -261,7 +261,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -272,7 +272,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -283,7 +283,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -294,7 +294,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -305,7 +305,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -316,7 +316,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -327,7 +327,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -338,7 +338,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -349,7 +349,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -360,7 +360,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -371,7 +371,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -382,7 +382,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -393,7 +393,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -404,7 +404,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -415,7 +415,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -426,7 +426,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -437,7 +437,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     },
     {
@@ -448,7 +448,7 @@
       "onCrafted": true,
       "openGuiClass": "",
       "openGuiNBT": "",
-      "pickUp": false,
+      "pickUp": true,
       "overwrite": ""
     }
   ]

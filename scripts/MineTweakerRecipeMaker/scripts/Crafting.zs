@@ -55,6 +55,18 @@ recipes.remove(<Mekanism:BasicBlock:3>);
 recipes.remove(<ProjectZulu|Core:WoodenBucket>);
 //recipes.remove(<Botania:flowerBag>);
 recipes.remove(<ironbackpacks:treatedLeather>);
+recipes.remove(<DragonsRadioMod:Radio>);
+recipes.remove(<DragonsRadioMod:Speaker>);
+recipes.remove(<DragonsRadioMod:DummySpeaker>);
+recipes.remove(<DragonsRadioMod:DragonsRadioTuner>);
+recipes.remove(<malisisdoors:player_sensor>);
+recipes.remove(<malisisdoors:vanishing_block>);
+recipes.remove(<malisisdoors:vanishing_block:3>);
+recipes.remove(<malisisdoors:garage_door>);
+recipes.remove(<malisisdoors:item.wood_sliding_door>);
+recipes.remove(<malisisdoors:item.iron_sliding_door>);
+recipes.remove(<malisisdoors:item.shoji_door>);
+recipes.remove(<malisisdoors:item.saloon>);
 
 // ================================================================================
 //#MARKER REMOVE SHAPELESS
@@ -70,6 +82,18 @@ recipes.remove(<ironbackpacks:treatedLeather>);
 recipes.addShapeless(<ironbackpacks:treatedLeather>, [<minecraft:leather>, <minecraft:water_bucket>.transformReplace(<minecraft:bucket>), <ore:dyeLime>, <minecraft:flint>]);
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<malisisdoors:player_sensor>, [[<ore:ingotIron>, <ore:dustRedstone>, <ore:ingotIron>], [<ore:blockGlass>, <ore:blockGlass>, <ore:blockGlass>]]);
+recipes.addShaped(<malisisdoors:vanishing_block>, [[<ore:dustRedstone>, <ore:stickWood>, <ore:dustRedstone>], [<ore:stickWood>, <minecraft:ender_pearl>, <ore:stickWood>], [<ore:dustRedstone>, <ore:stickWood>, <ore:dustRedstone>]]);
+recipes.addShaped(<malisisdoors:vanishing_block:3>, [[<ore:dustRedstone>, <ore:gemDiamond>, <ore:dustRedstone>], [<ore:gemDiamond>, <minecraft:ender_pearl>, <ore:gemDiamond>], [<ore:dustRedstone>, <ore:gemDiamond>, <ore:dustRedstone>]]);
+recipes.addShaped(<malisisdoors:garage_door>, [[<ore:plankWood>, <ore:blockGlass>, <ore:plankWood>], [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
+recipes.addShapedMirrored(<malisisdoors:item.wood_sliding_door>, [[<ore:plankWood>, <ore:blockGlass>], [<ore:plankWood>, <ore:blockGlass>], [<ore:plankWood>, <ore:blockGlass>]]);
+recipes.addShapedMirrored(<malisisdoors:item.iron_sliding_door>, [[<ore:ingotIron>, <ore:blockGlass>], [<ore:ingotIron>, <ore:blockGlass>], [<ore:ingotIron>, <ore:blockGlass>]]);
+recipes.addShapedMirrored(<malisisdoors:item.shoji_door>, [[<ore:plankWood>, <minecraft:paper>], [<ore:plankWood>, <minecraft:paper>], [<ore:plankWood>, <minecraft:paper>]]);
+recipes.addShaped(<malisisdoors:item.saloon>, [[<ore:plankWood>, <ore:plankWood>], [<ore:stickWood>, <ore:stickWood>], [<ore:plankWood>, <ore:plankWood>]]);
+recipes.addShaped(<DragonsRadioMod:Radio>, [[null, null, <ore:ingotIron>], [<ore:plankWood>, <ore:ingotIron>, <ore:plankWood>], [<ore:plankWood>, <ore:gemDiamond>, <ore:plankWood>]]);
+recipes.addShaped(<DragonsRadioMod:Speaker>, [[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], [<ore:plankWood>, <ore:ingotIron>, <ore:plankWood>], [<ore:plankWood>, <ore:dustRedstone>, <ore:plankWood>]]);
+recipes.addShaped(<DragonsRadioMod:DummySpeaker>, [[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], [<ore:plankWood>, <ore:ingotIron>, <ore:plankWood>], [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
+recipes.addShaped(<DragonsRadioMod:DragonsRadioTuner>, [[<ore:dustRedstone>], [<ore:dustRedstone>], [<ore:stickWood>]]);
 recipes.addShapedMirrored(<Eln:Eln.Copper Axe>, [[<ore:ingotCopper>, <ore:ingotCopper>], [<ore:ingotCopper>, <ore:stickWood>], [null, <ore:stickWood>]]);
 recipes.addShaped(<Eln:Eln.Copper Pickaxe>, [[<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>], [null, <ore:stickWood>, null], [null, <ore:stickWood>, null]]);
 recipes.addShaped(<Eln:Eln.Copper Shovel>, [[<ore:ingotCopper>], [<ore:stickWood>], [<ore:stickWood>]]);
